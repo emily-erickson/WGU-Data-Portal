@@ -16,7 +16,7 @@ def view_employment_page():
 
     st.title("Employment Data")
 
-    ## Job projections section
+    # Job projections section
     st.header("Employment Projections, 2020-2030")
 
     # Most growth, most decline -- by both number and percent of field
