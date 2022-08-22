@@ -1,0 +1,2731 @@
+﻿industry,segment,year,month,date,employees,hours,earnings
+mining and logging,total,2006,M03,3/1/06,669,42.7,22.8
+mining and logging,total,2006,M04,4/1/06,679,42.9,23.4
+mining and logging,total,2006,M05,5/1/06,681,42.6,23.45
+mining and logging,total,2006,M06,6/1/06,686,42.7,23.61
+mining and logging,total,2006,M07,7/1/06,690,43.1,23.71
+mining and logging,total,2006,M08,8/1/06,693,42.3,23.49
+mining and logging,total,2006,M09,9/1/06,694,42.4,23.9
+mining and logging,total,2006,M10,10/1/06,699,42.3,24.27
+mining and logging,total,2006,M11,11/1/06,701,42,24.95
+mining and logging,total,2006,M12,12/1/06,705,42.7,24.53
+mining and logging,total,2007,M01,1/1/07,706,42.5,24.61
+mining and logging,total,2007,M02,2/1/07,711,43,24.93
+mining and logging,total,2007,M03,3/1/07,715,43.3,24.87
+mining and logging,total,2007,M04,4/1/07,719,44.8,24.93
+mining and logging,total,2007,M05,5/1/07,721,44.2,24.92
+mining and logging,total,2007,M06,6/1/07,725,44,25.03
+mining and logging,total,2007,M07,7/1/07,728,44.2,24.83
+mining and logging,total,2007,M08,8/1/07,727,44.1,24.7
+mining and logging,total,2007,M09,9/1/07,726,44.5,24.93
+mining and logging,total,2007,M10,10/1/07,727,44.2,24.74
+mining and logging,total,2007,M11,11/1/07,735,44,24.94
+mining and logging,total,2007,M12,12/1/07,740,44.2,25.1
+mining and logging,total,2008,M01,1/1/08,746,43.6,25.4
+mining and logging,total,2008,M02,2/1/08,748,43.8,24.91
+mining and logging,total,2008,M03,3/1/08,755,44.8,26.42
+mining and logging,total,2008,M04,4/1/08,755,43.3,25.02
+mining and logging,total,2008,M05,5/1/08,761,43.6,25.38
+mining and logging,total,2008,M06,6/1/08,766,43.9,25.81
+mining and logging,total,2008,M07,7/1/08,770,43.4,26.38
+mining and logging,total,2008,M08,8/1/08,778,43.7,26.76
+mining and logging,total,2008,M09,9/1/08,782,42.9,26.63
+mining and logging,total,2008,M10,10/1/08,781,44.1,26.58
+mining and logging,total,2008,M11,11/1/08,776,44,27.53
+mining and logging,total,2008,M12,12/1/08,771,43.2,27.31
+mining and logging,total,2009,M01,1/1/09,761,43.1,27.43
+mining and logging,total,2009,M02,2/1/09,749,42.8,27.45
+mining and logging,total,2009,M03,3/1/09,728,42.5,27.64
+mining and logging,total,2009,M04,4/1/09,710,41.8,27.57
+mining and logging,total,2009,M05,5/1/09,693,41.5,27.52
+mining and logging,total,2009,M06,6/1/09,686,41.8,27.39
+mining and logging,total,2009,M07,7/1/09,678,41.9,27.24
+mining and logging,total,2009,M08,8/1/09,670,42.2,27.38
+mining and logging,total,2009,M09,9/1/09,665,42.2,27.15
+mining and logging,total,2009,M10,10/1/09,661,41.8,27.29
+mining and logging,total,2009,M11,11/1/09,664,42.5,27.02
+mining and logging,total,2009,M12,12/1/09,663,42.3,26.98
+mining and logging,total,2010,M01,1/1/10,667,43,27.06
+mining and logging,total,2010,M02,2/1/10,674,42.9,27.1
+mining and logging,total,2010,M03,3/1/10,682,43.3,27.08
+mining and logging,total,2010,M04,4/1/10,687,43.7,27.23
+mining and logging,total,2010,M05,5/1/10,697,43.9,27.38
+mining and logging,total,2010,M06,6/1/10,702,43.2,27.36
+mining and logging,total,2010,M07,7/1/10,708,43.7,27.57
+mining and logging,total,2010,M08,8/1/10,716,44,27.57
+mining and logging,total,2010,M09,9/1/10,723,43.4,27.76
+mining and logging,total,2010,M10,10/1/10,731,43.7,27.59
+mining and logging,total,2010,M11,11/1/10,736,42.8,27.72
+mining and logging,total,2010,M12,12/1/10,734,44.1,27.63
+mining and logging,total,2011,M01,1/1/11,736,44.3,27.91
+mining and logging,total,2011,M02,2/1/11,739,44,28.01
+mining and logging,total,2011,M03,3/1/11,754,44.4,28.08
+mining and logging,total,2011,M04,4/1/11,768,44.6,28.33
+mining and logging,total,2011,M05,5/1/11,778,44.8,28.17
+mining and logging,total,2011,M06,6/1/11,790,44.6,27.85
+mining and logging,total,2011,M07,7/1/11,801,44.3,27.89
+mining and logging,total,2011,M08,8/1/11,804,44.1,28
+mining and logging,total,2011,M09,9/1/11,814,44.6,28.05
+mining and logging,total,2011,M10,10/1/11,820,45.5,28.16
+mining and logging,total,2011,M11,11/1/11,824,43.8,28.26
+mining and logging,total,2011,M12,12/1/11,831,44.6,28.44
+mining and logging,total,2012,M01,1/1/12,840,44.7,28.05
+mining and logging,total,2012,M02,2/1/12,845,44.6,28.63
+mining and logging,total,2012,M03,3/1/12,849,44.1,28.69
+mining and logging,total,2012,M04,4/1/12,850,43.7,28.86
+mining and logging,total,2012,M05,5/1/12,855,44,28.46
+mining and logging,total,2012,M06,6/1/12,854,44.4,28.78
+mining and logging,total,2012,M07,7/1/12,851,43.8,29.02
+mining and logging,total,2012,M08,8/1/12,851,43.4,28.73
+mining and logging,total,2012,M09,9/1/12,846,43.2,28.93
+mining and logging,total,2012,M10,10/1/12,837,43.4,28.57
+mining and logging,total,2012,M11,11/1/12,843,43.2,28.88
+mining and logging,total,2012,M12,12/1/12,848,43.2,29.2
+mining and logging,total,2013,M01,1/1/13,851,42.6,29.21
+mining and logging,total,2013,M02,2/1/13,858,43.4,29.03
+mining and logging,total,2013,M03,3/1/13,859,43.4,29.15
+mining and logging,total,2013,M04,4/1/13,857,43.8,29.3
+mining and logging,total,2013,M05,5/1/13,862,44.2,29.44
+mining and logging,total,2013,M06,6/1/13,865,44.1,29.65
+mining and logging,total,2013,M07,7/1/13,862,44.3,29.71
+mining and logging,total,2013,M08,8/1/13,864,44.1,29.9
+mining and logging,total,2013,M09,9/1/13,868,44.3,29.99
+mining and logging,total,2013,M10,10/1/13,870,44.2,30.44
+mining and logging,total,2013,M11,11/1/13,869,44.9,30.66
+mining and logging,total,2013,M12,12/1/13,866,44.6,30.49
+mining and logging,total,2014,M01,1/1/14,871,44.4,30.5
+mining and logging,total,2014,M02,2/1/14,875,44.8,30.6
+mining and logging,total,2014,M03,3/1/14,879,45.1,30.56
+mining and logging,total,2014,M04,4/1/14,886,45,30.82
+mining and logging,total,2014,M05,5/1/14,887,44.5,30.91
+mining and logging,total,2014,M06,6/1/14,892,45.1,30.86
+mining and logging,total,2014,M07,7/1/14,897,44.8,30.9
+mining and logging,total,2014,M08,8/1/14,898,45,30.93
+mining and logging,total,2014,M09,9/1/14,903,44.7,30.88
+mining and logging,total,2014,M10,10/1/14,901,44.9,30.8
+mining and logging,total,2014,M11,11/1/14,900,44.9,30.82
+mining and logging,total,2014,M12,12/1/14,896,45.1,30.82
+mining and logging,total,2015,M01,1/1/15,888,45.1,30.51
+mining and logging,total,2015,M02,2/1/15,875,44.3,30.67
+mining and logging,total,2015,M03,3/1/15,859,43.9,30.83
+mining and logging,total,2015,M04,4/1/15,843,43.7,30.7
+mining and logging,total,2015,M05,5/1/15,820,43.6,31.16
+mining and logging,total,2015,M06,6/1/15,816,43.7,31.03
+mining and logging,total,2015,M07,7/1/15,805,43.9,31.18
+mining and logging,total,2015,M08,8/1/15,794,43.7,31.41
+mining and logging,total,2015,M09,9/1/15,779,44.1,31.52
+mining and logging,total,2015,M10,10/1/15,771,44,31.43
+mining and logging,total,2015,M11,11/1/15,756,44.1,31.68
+mining and logging,total,2015,M12,12/1/15,746,44.3,31.47
+mining and logging,total,2016,M01,1/1/16,732,43.9,31.79
+mining and logging,total,2016,M02,2/1/16,711,43.2,31.82
+mining and logging,total,2016,M03,3/1/16,691,42.9,31.97
+mining and logging,total,2016,M04,4/1/16,677,42.9,31.98
+mining and logging,total,2016,M05,5/1/16,666,43,32.1
+mining and logging,total,2016,M06,6/1/16,656,42.9,32.08
+mining and logging,total,2016,M07,7/1/16,651,43.2,31.98
+mining and logging,total,2016,M08,8/1/16,647,43.6,31.63
+mining and logging,total,2016,M09,9/1/16,645,43.7,31.83
+mining and logging,total,2016,M10,10/1/16,644,43.8,31.98
+mining and logging,total,2016,M11,11/1/16,647,43.8,31.9
+mining and logging,total,2016,M12,12/1/16,649,43.7,32.04
+mining and logging,total,2017,M01,1/1/17,648,44.2,33.14
+mining and logging,total,2017,M02,2/1/17,655,44.4,32.18
+mining and logging,total,2017,M03,3/1/17,659,45.1,32.07
+mining and logging,total,2017,M04,4/1/17,670,44.9,31.84
+mining and logging,total,2017,M05,5/1/17,675,45.4,31.83
+mining and logging,total,2017,M06,6/1/17,678,45,31.83
+mining and logging,total,2017,M07,7/1/17,681,45.6,32.12
+mining and logging,total,2017,M08,8/1/17,685,45.1,32.01
+mining and logging,total,2017,M09,9/1/17,687,45.4,31.89
+mining and logging,total,2017,M10,10/1/17,688,45.3,31.96
+mining and logging,total,2017,M11,11/1/17,693,45.7,32.08
+mining and logging,total,2017,M12,12/1/17,692,45.6,32.18
+mining and logging,total,2018,M01,1/1/18,698,45.5,32.39
+mining and logging,total,2018,M02,2/1/18,705,45.9,32.26
+mining and logging,total,2018,M03,3/1/18,712,45.8,32.49
+mining and logging,total,2018,M04,4/1/18,721,46.1,32.39
+mining and logging,total,2018,M05,5/1/18,726,46.2,32.27
+mining and logging,total,2018,M06,6/1/18,732,46.4,32.43
+mining and logging,total,2018,M07,7/1/18,732,46.1,32.34
+mining and logging,total,2018,M08,8/1/18,740,46.1,32.56
+mining and logging,total,2018,M09,9/1/18,741,46,32.78
+mining and logging,total,2018,M10,10/1/18,744,46,32.54
+mining and logging,total,2018,M11,11/1/18,737,46,32.7
+mining and logging,total,2018,M12,12/1/18,741,46.2,32.68
+mining and logging,total,2019,M01,1/1/19,743,46.4,32.84
+mining and logging,total,2019,M02,2/1/19,739,46.2,32.99
+mining and logging,total,2019,M03,3/1/19,737,46.6,33.02
+mining and logging,total,2019,M04,4/1/19,738,46.5,33.28
+mining and logging,total,2019,M05,5/1/19,738,46.5,33.39
+mining and logging,total,2019,M06,6/1/19,735,46.5,33.56
+mining and logging,total,2019,M07,7/1/19,730,46.3,33.92
+mining and logging,total,2019,M08,8/1/19,723,46.3,33.98
+mining and logging,total,2019,M09,9/1/19,720,46.3,34.19
+mining and logging,total,2019,M10,10/1/19,721,46.2,34.47
+mining and logging,total,2019,M11,11/1/19,707,45.8,34.35
+mining and logging,total,2019,M12,12/1/19,693,45.8,34.39
+mining and logging,total,2020,M01,1/1/20,684,45.6,34.32
+mining and logging,total,2020,M02,2/1/20,686,45.4,34.52
+mining and logging,total,2020,M03,3/1/20,673,44.9,34.48
+mining and logging,total,2020,M04,4/1/20,615,42.8,34.72
+mining and logging,total,2020,M05,5/1/20,595,43.1,34.85
+mining and logging,total,2020,M06,6/1/20,581,43.5,34.87
+mining and logging,total,2020,M07,7/1/20,570,44,34.69
+mining and logging,total,2020,M08,8/1/20,563,44.3,34.55
+mining and logging,total,2020,M09,9/1/20,561,44.3,34.68
+mining and logging,total,2020,M10,10/1/20,556,44.7,34.63
+mining and logging,total,2020,M11,11/1/20,554,45,34.29
+mining and logging,total,2020,M12,12/1/20,554,44.9,34.45
+mining and logging,total,2021,M01,1/1/21,546,45.4,34.41
+mining and logging,total,2021,M02,2/1/21,542,44.8,34.53
+mining and logging,total,2021,M03,3/1/21,551,45.6,34.3
+mining and logging,total,2021,M04,4/1/21,554,45.2,34.72
+mining and logging,total,2021,M05,5/1/21,560,45.1,34.71
+mining and logging,total,2021,M06,6/1/21,566,45.3,34.79
+mining and logging,total,2021,M07,7/1/21,569,45.1,35.06
+mining and logging,total,2021,M08,8/1/21,574,44.7,35.25
+mining and logging,total,2021,M09,9/1/21,576,45.4,35.25
+mining and logging,total,2021,M10,10/1/21,578,44.8,35.3
+mining and logging,total,2021,M11,11/1/21,582,45,35.58
+mining and logging,total,2021,M12,12/1/21,590,44.9,35.66
+mining and logging,total,2022,M01,1/1/22,590,44.5,35.9
+mining and logging,total,2022,M02,2/1/22,600,45.2,35.77
+mining and logging,total,2022,M03,3/1/22,605,45.8,35.73
+mining and logging,total,2022,M04,4/1/22,613,45.1,35.39
+mining and logging,total,2022,M05,5/1/22,618,46,35.7
+construction,total,2006,M03,3/1/06,7689,37.5,21.85
+construction,total,2006,M04,4/1/06,7726,38.1,22.05
+construction,total,2006,M05,5/1/06,7713,37.7,22.03
+construction,total,2006,M06,6/1/06,7699,37.8,22.21
+construction,total,2006,M07,7/1/06,7712,37.8,22.29
+construction,total,2006,M08,8/1/06,7720,37.8,22.25
+construction,total,2006,M09,9/1/06,7718,37.7,22.41
+construction,total,2006,M10,10/1/06,7682,37.9,22.53
+construction,total,2006,M11,11/1/06,7666,37.8,22.5
+construction,total,2006,M12,12/1/06,7685,38.4,22.51
+construction,total,2007,M01,1/1/07,7725,37.9,22.59
+construction,total,2007,M02,2/1/07,7626,37.5,22.66
+construction,total,2007,M03,3/1/07,7706,38,22.72
+construction,total,2007,M04,4/1/07,7686,37.9,22.83
+construction,total,2007,M05,5/1/07,7673,38.2,22.98
+construction,total,2007,M06,6/1/07,7687,38,23.02
+construction,total,2007,M07,7/1/07,7660,37.9,23.1
+construction,total,2007,M08,8/1/07,7610,37.8,23.13
+construction,total,2007,M09,9/1/07,7577,38.1,23.21
+construction,total,2007,M10,10/1/07,7565,38,23.18
+construction,total,2007,M11,11/1/07,7523,38.2,23.32
+construction,total,2007,M12,12/1/07,7490,38.2,23.43
+construction,total,2008,M01,1/1/08,7476,38.2,23.42
+construction,total,2008,M02,2/1/08,7453,38.1,23.51
+construction,total,2008,M03,3/1/08,7406,38.2,23.58
+construction,total,2008,M04,4/1/08,7327,38.1,23.63
+construction,total,2008,M05,5/1/08,7274,37.9,23.82
+construction,total,2008,M06,6/1/08,7213,38,23.89
+construction,total,2008,M07,7/1/08,7160,37.8,23.98
+construction,total,2008,M08,8/1/08,7114,37.8,24.21
+construction,total,2008,M09,9/1/08,7044,37.4,24.23
+construction,total,2008,M10,10/1/08,6967,37.5,24.25
+construction,total,2008,M11,11/1/08,6813,37.3,24.41
+construction,total,2008,M12,12/1/08,6701,37.2,24.56
+construction,total,2009,M01,1/1/09,6567,37.3,24.56
+construction,total,2009,M02,2/1/09,6446,37.4,24.6
+construction,total,2009,M03,3/1/09,6291,37.2,24.76
+construction,total,2009,M04,4/1/09,6154,37.2,24.8
+construction,total,2009,M05,5/1/09,6100,37.3,24.77
+construction,total,2009,M06,6/1/09,6010,37.2,24.85
+construction,total,2009,M07,7/1/09,5932,37.4,24.85
+construction,total,2009,M08,8/1/09,5855,37.4,24.89
+construction,total,2009,M09,9/1/09,5787,37.5,24.88
+construction,total,2009,M10,10/1/09,5716,36.4,25.01
+construction,total,2009,M11,11/1/09,5696,37.5,25.03
+construction,total,2009,M12,12/1/09,5654,37,24.99
+construction,total,2010,M01,1/1/10,5580,37.5,25.12
+construction,total,2010,M02,2/1/10,5500,36.5,25.25
+construction,total,2010,M03,3/1/10,5537,37.3,25.17
+construction,total,2010,M04,4/1/10,5553,38.1,25.1
+construction,total,2010,M05,5/1/10,5520,37.7,25.15
+construction,total,2010,M06,6/1/10,5516,37.7,25.12
+construction,total,2010,M07,7/1/10,5508,37.8,25.17
+construction,total,2010,M08,8/1/10,5524,38,25.17
+construction,total,2010,M09,9/1/10,5501,39.1,25.19
+construction,total,2010,M10,10/1/10,5508,38.2,25.31
+construction,total,2010,M11,11/1/10,5506,38.2,25.31
+construction,total,2010,M12,12/1/10,5467,38,25.35
+construction,total,2011,M01,1/1/11,5427,37.6,25.46
+construction,total,2011,M02,2/1/11,5451,37.8,25.44
+construction,total,2011,M03,3/1/11,5477,37.9,25.34
+construction,total,2011,M04,4/1/11,5485,38.1,25.38
+construction,total,2011,M05,5/1/11,5516,38.5,25.35
+construction,total,2011,M06,6/1/11,5528,38.4,25.35
+construction,total,2011,M07,7/1/11,5547,38.5,25.36
+construction,total,2011,M08,8/1/11,5552,38.3,25.46
+construction,total,2011,M09,9/1/11,5584,38.5,25.49
+construction,total,2011,M10,10/1/11,5588,38.3,25.49
+construction,total,2011,M11,11/1/11,5593,38.3,25.44
+construction,total,2011,M12,12/1/11,5611,38.5,25.49
+construction,total,2012,M01,1/1/12,5626,38.6,25.5
+construction,total,2012,M02,2/1/12,5629,38.5,25.55
+construction,total,2012,M03,3/1/12,5625,38.7,25.66
+construction,total,2012,M04,4/1/12,5618,38.7,25.65
+construction,total,2012,M05,5/1/12,5604,38.5,25.69
+construction,total,2012,M06,6/1/12,5621,38.5,25.71
+construction,total,2012,M07,7/1/12,5632,38.4,25.75
+construction,total,2012,M08,8/1/12,5648,38.5,25.77
+construction,total,2012,M09,9/1/12,5661,38.8,25.86
+construction,total,2012,M10,10/1/12,5674,38.8,25.84
+construction,total,2012,M11,11/1/12,5684,38.8,25.95
+construction,total,2012,M12,12/1/12,5724,39.1,25.95
+construction,total,2013,M01,1/1/13,5746,39,25.96
+construction,total,2013,M02,2/1/13,5784,39.1,26.03
+construction,total,2013,M03,3/1/13,5802,39,25.98
+construction,total,2013,M04,4/1/13,5796,38.9,26.03
+construction,total,2013,M05,5/1/13,5829,39.1,26.04
+construction,total,2013,M06,6/1/13,5855,38.9,26.09
+construction,total,2013,M07,7/1/13,5859,38.7,26.17
+construction,total,2013,M08,8/1/13,5878,38.9,26.19
+construction,total,2013,M09,9/1/13,5910,38.9,26.17
+construction,total,2013,M10,10/1/13,5931,38.7,26.18
+construction,total,2013,M11,11/1/13,5963,39,26.25
+construction,total,2013,M12,12/1/13,5932,38.7,26.38
+construction,total,2014,M01,1/1/14,5985,38.6,26.41
+construction,total,2014,M02,2/1/14,6007,38.3,26.76
+construction,total,2014,M03,3/1/14,6038,39.2,26.48
+construction,total,2014,M04,4/1/14,6084,38.9,26.56
+construction,total,2014,M05,5/1/14,6109,38.9,26.61
+construction,total,2014,M06,6/1/14,6133,39,26.67
+construction,total,2014,M07,7/1/14,6178,39.2,26.66
+construction,total,2014,M08,8/1/14,6210,39.1,26.73
+construction,total,2014,M09,9/1/14,6242,39.1,26.81
+construction,total,2014,M10,10/1/14,6259,39,26.86
+construction,total,2014,M11,11/1/14,6272,39.1,26.92
+construction,total,2014,M12,12/1/14,6293,39.1,26.87
+construction,total,2015,M01,1/1/15,6320,39,27.07
+construction,total,2015,M02,2/1/15,6361,39.5,27.12
+construction,total,2015,M03,3/1/15,6334,39.2,27.24
+construction,total,2015,M04,4/1/15,6392,39,27.28
+construction,total,2015,M05,5/1/15,6427,38.9,27.32
+construction,total,2015,M06,6/1/15,6441,39.2,27.34
+construction,total,2015,M07,7/1/15,6472,39.1,27.36
+construction,total,2015,M08,8/1/15,6490,39.3,27.44
+construction,total,2015,M09,9/1/15,6508,38.8,27.35
+construction,total,2015,M10,10/1/15,6547,39.4,27.52
+construction,total,2015,M11,11/1/15,6598,39.1,27.67
+construction,total,2015,M12,12/1/15,6630,39.6,27.62
+construction,total,2016,M01,1/1/16,6631,39.3,27.66
+construction,total,2016,M02,2/1/16,6640,39,27.75
+construction,total,2016,M03,3/1/16,6678,38.9,27.87
+construction,total,2016,M04,4/1/16,6702,39.1,27.97
+construction,total,2016,M05,5/1/16,6689,39,28.08
+construction,total,2016,M06,6/1/16,6701,39.1,28.12
+construction,total,2016,M07,7/1/16,6735,39.1,28.2
+construction,total,2016,M08,8/1/16,6736,39,28.2
+construction,total,2016,M09,9/1/16,6768,39.2,28.21
+construction,total,2016,M10,10/1/16,6799,39.2,28.42
+construction,total,2016,M11,11/1/16,6823,39.2,28.35
+construction,total,2016,M12,12/1/16,6818,39.1,28.43
+construction,total,2017,M01,1/1/17,6840,38.9,28.55
+construction,total,2017,M02,2/1/17,6881,39,28.5
+construction,total,2017,M03,3/1/17,6902,38.9,28.64
+construction,total,2017,M04,4/1/17,6916,39.1,28.59
+construction,total,2017,M05,5/1/17,6931,39.2,28.73
+construction,total,2017,M06,6/1/17,6962,39.1,28.9
+construction,total,2017,M07,7/1/17,6968,39,28.95
+construction,total,2017,M08,8/1/17,7002,39,28.97
+construction,total,2017,M09,9/1/17,7013,39,29.13
+construction,total,2017,M10,10/1/17,7031,39.2,29.11
+construction,total,2017,M11,11/1/17,7068,39.5,29.21
+construction,total,2017,M12,12/1/17,7091,39.1,29.29
+construction,total,2018,M01,1/1/18,7102,38.8,29.4
+construction,total,2018,M02,2/1/18,7186,39.3,29.54
+construction,total,2018,M03,3/1/18,7195,39.2,29.52
+construction,total,2018,M04,4/1/18,7223,39.4,29.66
+construction,total,2018,M05,5/1/18,7271,39.5,29.7
+construction,total,2018,M06,6/1/18,7291,39.2,29.77
+construction,total,2018,M07,7/1/18,7316,39.4,29.94
+construction,total,2018,M08,8/1/18,7345,39.1,30.01
+construction,total,2018,M09,9/1/18,7366,39,30.2
+construction,total,2018,M10,10/1/18,7380,38.9,30.25
+construction,total,2018,M11,11/1/18,7379,38.9,30.28
+construction,total,2018,M12,12/1/18,7396,39.3,30.47
+construction,total,2019,M01,1/1/19,7434,39.7,30.34
+construction,total,2019,M02,2/1/19,7402,38.8,30.43
+construction,total,2019,M03,3/1/19,7427,39.3,30.54
+construction,total,2019,M04,4/1/19,7470,39.1,30.65
+construction,total,2019,M05,5/1/19,7484,39.1,30.71
+construction,total,2019,M06,6/1/19,7510,39.4,30.72
+construction,total,2019,M07,7/1/19,7522,39.1,30.72
+construction,total,2019,M08,8/1/19,7527,39.3,30.87
+construction,total,2019,M09,9/1/19,7540,39.8,30.89
+construction,total,2019,M10,10/1/19,7543,39.3,31
+construction,total,2019,M11,11/1/19,7536,39,31.13
+construction,total,2019,M12,12/1/19,7529,38.9,31.17
+construction,total,2020,M01,1/1/20,7577,39.1,31.19
+construction,total,2020,M02,2/1/20,7624,39.4,31.38
+construction,total,2020,M03,3/1/20,7549,39,31.41
+construction,total,2020,M04,4/1/20,6516,37.8,31.35
+construction,total,2020,M05,5/1/20,7007,38.9,31.46
+construction,total,2020,M06,6/1/20,7166,38.9,31.61
+construction,total,2020,M07,7/1/20,7198,39,31.74
+construction,total,2020,M08,8/1/20,7222,39,31.83
+construction,total,2020,M09,9/1/20,7243,38.9,31.8
+construction,total,2020,M10,10/1/20,7295,38.9,31.84
+construction,total,2020,M11,11/1/20,7313,39,31.95
+construction,total,2020,M12,12/1/20,7357,39.1,32.05
+construction,total,2021,M01,1/1/21,7360,39.2,32.16
+construction,total,2021,M02,2/1/21,7308,38.5,32.27
+construction,total,2021,M03,3/1/21,7408,39.4,32.24
+construction,total,2021,M04,4/1/21,7393,39,32.56
+construction,total,2021,M05,5/1/21,7381,39,32.74
+construction,total,2021,M06,6/1/21,7378,38.7,32.85
+construction,total,2021,M07,7/1/21,7395,38.8,32.94
+construction,total,2021,M08,8/1/21,7397,38.8,33.08
+construction,total,2021,M09,9/1/21,7427,39.5,33.22
+construction,total,2021,M10,10/1/21,7455,38.8,33.41
+construction,total,2021,M11,11/1/21,7502,39,33.44
+construction,total,2021,M12,12/1/21,7546,39.2,33.62
+construction,total,2022,M01,1/1/22,7552,38.8,33.87
+construction,total,2022,M02,2/1/22,7606,39.5,33.97
+construction,total,2022,M03,3/1/22,7628,38.7,34.14
+construction,total,2022,M04,4/1/22,7628,38.8,34.34
+construction,total,2022,M05,5/1/22,7664,39,34.56
+manufacturing durable goods,total,2006,M03,3/1/06,9000,40.3,21.64
+manufacturing durable goods,total,2006,M04,4/1/06,9020,40.3,21.75
+manufacturing durable goods,total,2006,M05,5/1/06,9017,40.5,21.63
+manufacturing durable goods,total,2006,M06,6/1/06,9028,40.5,21.75
+manufacturing durable goods,total,2006,M07,7/1/06,9008,40.5,21.9
+manufacturing durable goods,total,2006,M08,8/1/06,8992,40.3,21.9
+manufacturing durable goods,total,2006,M09,9/1/06,8972,40.4,22
+manufacturing durable goods,total,2006,M10,10/1/06,8945,40.4,22.13
+manufacturing durable goods,total,2006,M11,11/1/06,8918,40.2,22.15
+manufacturing durable goods,total,2006,M12,12/1/06,8913,40.3,22.23
+manufacturing durable goods,total,2007,M01,1/1/07,8890,40.3,22.19
+manufacturing durable goods,total,2007,M02,2/1/07,8889,40.1,22.31
+manufacturing durable goods,total,2007,M03,3/1/07,8871,40.3,22.29
+manufacturing durable goods,total,2007,M04,4/1/07,8860,40.4,22.41
+manufacturing durable goods,total,2007,M05,5/1/07,8846,40.4,22.43
+manufacturing durable goods,total,2007,M06,6/1/07,8830,40.4,22.55
+manufacturing durable goods,total,2007,M07,7/1/07,8815,40.4,22.58
+manufacturing durable goods,total,2007,M08,8/1/07,8778,40.3,22.65
+manufacturing durable goods,total,2007,M09,9/1/07,8752,40.3,22.69
+manufacturing durable goods,total,2007,M10,10/1/07,8727,40.2,22.61
+manufacturing durable goods,total,2007,M11,11/1/07,8724,40.3,22.7
+manufacturing durable goods,total,2007,M12,12/1/07,8707,40.3,22.82
+manufacturing durable goods,total,2008,M01,1/1/08,8693,40.3,22.73
+manufacturing durable goods,total,2008,M02,2/1/08,8673,40.3,22.91
+manufacturing durable goods,total,2008,M03,3/1/08,8646,40.5,23.01
+manufacturing durable goods,total,2008,M04,4/1/08,8597,40.3,23
+manufacturing durable goods,total,2008,M05,5/1/08,8579,40.3,23.16
+manufacturing durable goods,total,2008,M06,6/1/08,8542,40.3,23.29
+manufacturing durable goods,total,2008,M07,7/1/08,8488,40.1,23.27
+manufacturing durable goods,total,2008,M08,8/1/08,8430,40.2,23.37
+manufacturing durable goods,total,2008,M09,9/1/08,8372,39.8,23.42
+manufacturing durable goods,total,2008,M10,10/1/08,8275,39.9,23.63
+manufacturing durable goods,total,2008,M11,11/1/08,8193,39.5,23.83
+manufacturing durable goods,total,2008,M12,12/1/08,8065,39.3,23.88
+manufacturing durable goods,total,2009,M01,1/1/09,7832,39.1,24.06
+manufacturing durable goods,total,2009,M02,2/1/09,7699,39.1,24.27
+manufacturing durable goods,total,2009,M03,3/1/09,7577,38.6,24.41
+manufacturing durable goods,total,2009,M04,4/1/09,7428,38.8,24.5
+manufacturing durable goods,total,2009,M05,5/1/09,7289,38.6,24.5
+manufacturing durable goods,total,2009,M06,6/1/09,7182,38.8,24.54
+manufacturing durable goods,total,2009,M07,7/1/09,7146,39,24.67
+manufacturing durable goods,total,2009,M08,8/1/09,7113,39.2,24.65
+manufacturing durable goods,total,2009,M09,9/1/09,7084,39.4,24.69
+manufacturing durable goods,total,2009,M10,10/1/09,7044,39.4,24.67
+manufacturing durable goods,total,2009,M11,11/1/09,7020,39.8,24.73
+manufacturing durable goods,total,2009,M12,12/1/09,6999,39.8,24.69
+manufacturing durable goods,total,2010,M01,1/1/10,6989,40.1,24.69
+manufacturing durable goods,total,2010,M02,2/1/10,6985,39.8,24.76
+manufacturing durable goods,total,2010,M03,3/1/10,6996,40.2,24.68
+manufacturing durable goods,total,2010,M04,4/1/10,7026,40.4,24.7
+manufacturing durable goods,total,2010,M05,5/1/10,7053,40.7,24.79
+manufacturing durable goods,total,2010,M06,6/1/10,7072,40.4,24.71
+manufacturing durable goods,total,2010,M07,7/1/10,7083,40.6,24.83
+manufacturing durable goods,total,2010,M08,8/1/10,7090,40.5,24.88
+manufacturing durable goods,total,2010,M09,9/1/10,7105,40.7,24.89
+manufacturing durable goods,total,2010,M10,10/1/10,7109,40.7,24.96
+manufacturing durable goods,total,2010,M11,11/1/10,7125,40.7,24.91
+manufacturing durable goods,total,2010,M12,12/1/10,7137,40.8,24.98
+manufacturing durable goods,total,2011,M01,1/1/11,7168,40.6,25.13
+manufacturing durable goods,total,2011,M02,2/1/11,7195,40.8,25
+manufacturing durable goods,total,2011,M03,3/1/11,7214,40.9,25.06
+manufacturing durable goods,total,2011,M04,4/1/11,7240,40.7,25.11
+manufacturing durable goods,total,2011,M05,5/1/11,7257,40.9,25.2
+manufacturing durable goods,total,2011,M06,6/1/11,7275,40.8,25.19
+manufacturing durable goods,total,2011,M07,7/1/11,7289,40.8,25.28
+manufacturing durable goods,total,2011,M08,8/1/11,7303,40.7,25.22
+manufacturing durable goods,total,2011,M09,9/1/11,7313,40.7,25.25
+manufacturing durable goods,total,2011,M10,10/1/11,7330,41,25.41
+manufacturing durable goods,total,2011,M11,11/1/11,7331,40.8,25.22
+manufacturing durable goods,total,2011,M12,12/1/11,7368,41,25.27
+manufacturing durable goods,total,2012,M01,1/1/12,7398,41.2,25.29
+manufacturing durable goods,total,2012,M02,2/1/12,7420,41.2,25.26
+manufacturing durable goods,total,2012,M03,3/1/12,7446,41.1,25.26
+manufacturing durable goods,total,2012,M04,4/1/12,7461,41.1,25.32
+manufacturing durable goods,total,2012,M05,5/1/12,7471,41,25.15
+manufacturing durable goods,total,2012,M06,6/1/12,7480,41.1,25.24
+manufacturing durable goods,total,2012,M07,7/1/12,7503,41,25.29
+manufacturing durable goods,total,2012,M08,8/1/12,7492,40.8,25.3
+manufacturing durable goods,total,2012,M09,9/1/12,7483,40.9,25.35
+manufacturing durable goods,total,2012,M10,10/1/12,7485,40.8,25.3
+manufacturing durable goods,total,2012,M11,11/1/12,7488,40.8,25.36
+manufacturing durable goods,total,2012,M12,12/1/12,7505,41,25.45
+manufacturing durable goods,total,2013,M01,1/1/13,7515,41,25.45
+manufacturing durable goods,total,2013,M02,2/1/13,7523,41.2,25.51
+manufacturing durable goods,total,2013,M03,3/1/13,7531,41.2,25.55
+manufacturing durable goods,total,2013,M04,4/1/13,7534,41.1,25.63
+manufacturing durable goods,total,2013,M05,5/1/13,7533,41,25.73
+manufacturing durable goods,total,2013,M06,6/1/13,7539,41.1,25.75
+manufacturing durable goods,total,2013,M07,7/1/13,7517,41,25.78
+manufacturing durable goods,total,2013,M08,8/1/13,7547,41.3,25.79
+manufacturing durable goods,total,2013,M09,9/1/13,7564,41.3,25.86
+manufacturing durable goods,total,2013,M10,10/1/13,7576,41.3,25.86
+manufacturing durable goods,total,2013,M11,11/1/13,7589,41.5,26
+manufacturing durable goods,total,2013,M12,12/1/13,7591,41.4,26.03
+manufacturing durable goods,total,2014,M01,1/1/14,7583,41.1,26.11
+manufacturing durable goods,total,2014,M02,2/1/14,7605,41.2,26.13
+manufacturing durable goods,total,2014,M03,3/1/14,7621,41.4,26.14
+manufacturing durable goods,total,2014,M04,4/1/14,7632,41.4,26.08
+manufacturing durable goods,total,2014,M05,5/1/14,7647,41.6,26.09
+manufacturing durable goods,total,2014,M06,6/1/14,7669,41.6,26.19
+manufacturing durable goods,total,2014,M07,7/1/14,7686,41.4,26.2
+manufacturing durable goods,total,2014,M08,8/1/14,7699,41.5,26.23
+manufacturing durable goods,total,2014,M09,9/1/14,7709,41.5,26.19
+manufacturing durable goods,total,2014,M10,10/1/14,7732,41.5,26.25
+manufacturing durable goods,total,2014,M11,11/1/14,7749,41.6,26.28
+manufacturing durable goods,total,2014,M12,12/1/14,7752,41.4,26.26
+manufacturing durable goods,total,2015,M01,1/1/15,7752,41.4,26.3
+manufacturing durable goods,total,2015,M02,2/1/15,7760,41.3,26.39
+manufacturing durable goods,total,2015,M03,3/1/15,7764,41.2,26.44
+manufacturing durable goods,total,2015,M04,4/1/15,7763,41.2,26.45
+manufacturing durable goods,total,2015,M05,5/1/15,7773,41.1,26.52
+manufacturing durable goods,total,2015,M06,6/1/15,7772,41,26.51
+manufacturing durable goods,total,2015,M07,7/1/15,7774,41.1,26.59
+manufacturing durable goods,total,2015,M08,8/1/15,7774,41.2,26.73
+manufacturing durable goods,total,2015,M09,9/1/15,7773,41,26.71
+manufacturing durable goods,total,2015,M10,10/1/15,7770,41,26.73
+manufacturing durable goods,total,2015,M11,11/1/15,7756,41.2,26.82
+manufacturing durable goods,total,2015,M12,12/1/15,7750,41.1,26.85
+manufacturing durable goods,total,2016,M01,1/1/16,7762,41.2,26.97
+manufacturing durable goods,total,2016,M02,2/1/16,7748,41.1,27.03
+manufacturing durable goods,total,2016,M03,3/1/16,7727,41.1,27.1
+manufacturing durable goods,total,2016,M04,4/1/16,7731,41.2,27.21
+manufacturing durable goods,total,2016,M05,5/1/16,7707,41.2,27.31
+manufacturing durable goods,total,2016,M06,6/1/16,7704,41.2,27.32
+manufacturing durable goods,total,2016,M07,7/1/16,7718,41.2,27.32
+manufacturing durable goods,total,2016,M08,8/1/16,7697,41.1,27.46
+manufacturing durable goods,total,2016,M09,9/1/16,7692,41.2,27.41
+manufacturing durable goods,total,2016,M10,10/1/16,7692,41.2,27.57
+manufacturing durable goods,total,2016,M11,11/1/16,7686,41.2,27.52
+manufacturing durable goods,total,2016,M12,12/1/16,7694,41.2,27.6
+manufacturing durable goods,total,2017,M01,1/1/17,7702,41.3,27.63
+manufacturing durable goods,total,2017,M02,2/1/17,7698,41.2,27.67
+manufacturing durable goods,total,2017,M03,3/1/17,7705,41.1,27.69
+manufacturing durable goods,total,2017,M04,4/1/17,7708,41.2,27.79
+manufacturing durable goods,total,2017,M05,5/1/17,7717,41.3,27.77
+manufacturing durable goods,total,2017,M06,6/1/17,7725,41.3,27.82
+manufacturing durable goods,total,2017,M07,7/1/17,7718,41.3,27.94
+manufacturing durable goods,total,2017,M08,8/1/17,7753,41.3,27.85
+manufacturing durable goods,total,2017,M09,9/1/17,7765,41.3,27.99
+manufacturing durable goods,total,2017,M10,10/1/17,7776,41.5,28.01
+manufacturing durable goods,total,2017,M11,11/1/17,7795,41.5,28.01
+manufacturing durable goods,total,2017,M12,12/1/17,7818,41.3,28.05
+manufacturing durable goods,total,2018,M01,1/1/18,7838,41.1,28.2
+manufacturing durable goods,total,2018,M02,2/1/18,7861,41.5,28.15
+manufacturing durable goods,total,2018,M03,3/1/18,7887,41.3,28.22
+manufacturing durable goods,total,2018,M04,4/1/18,7906,41.5,28.26
+manufacturing durable goods,total,2018,M05,5/1/18,7922,41.3,28.29
+manufacturing durable goods,total,2018,M06,6/1/18,7943,41.4,28.35
+manufacturing durable goods,total,2018,M07,7/1/18,7961,41.4,28.39
+manufacturing durable goods,total,2018,M08,8/1/18,7971,41.3,28.48
+manufacturing durable goods,total,2018,M09,9/1/18,7988,41.2,28.54
+manufacturing durable goods,total,2018,M10,10/1/18,8009,41.2,28.56
+manufacturing durable goods,total,2018,M11,11/1/18,8018,41.1,28.71
+manufacturing durable goods,total,2018,M12,12/1/18,8034,41.2,28.77
+manufacturing durable goods,total,2019,M01,1/1/19,8062,41.1,28.74
+manufacturing durable goods,total,2019,M02,2/1/19,8062,41,28.91
+manufacturing durable goods,total,2019,M03,3/1/19,8055,41.1,28.97
+manufacturing durable goods,total,2019,M04,4/1/19,8053,40.9,28.94
+manufacturing durable goods,total,2019,M05,5/1/19,8046,41.1,29.02
+manufacturing durable goods,total,2019,M06,6/1/19,8046,41.2,29.14
+manufacturing durable goods,total,2019,M07,7/1/19,8047,40.9,29.21
+manufacturing durable goods,total,2019,M08,8/1/19,8039,41,29.23
+manufacturing durable goods,total,2019,M09,9/1/19,8032,40.9,29.31
+manufacturing durable goods,total,2019,M10,10/1/19,7979,40.8,29.39
+manufacturing durable goods,total,2019,M11,11/1/19,8021,40.9,29.51
+manufacturing durable goods,total,2019,M12,12/1/19,8011,40.9,29.62
+manufacturing durable goods,total,2020,M01,1/1/20,8004,40.8,29.65
+manufacturing durable goods,total,2020,M02,2/1/20,8007,41.1,29.71
+manufacturing durable goods,total,2020,M03,3/1/20,7965,40.7,29.83
+manufacturing durable goods,total,2020,M04,4/1/20,7068,37.7,30.84
+manufacturing durable goods,total,2020,M05,5/1/20,7203,38.8,30.5
+manufacturing durable goods,total,2020,M06,6/1/20,7460,39.1,30
+manufacturing durable goods,total,2020,M07,7/1/20,7492,40,30.2
+manufacturing durable goods,total,2020,M08,8/1/20,7489,40.2,30.35
+manufacturing durable goods,total,2020,M09,9/1/20,7520,40.5,30.3
+manufacturing durable goods,total,2020,M10,10/1/20,7530,40.6,30.35
+manufacturing durable goods,total,2020,M11,11/1/20,7559,40.5,30.51
+manufacturing durable goods,total,2020,M12,12/1/20,7580,40.3,30.47
+manufacturing durable goods,total,2021,M01,1/1/21,7572,40.8,30.51
+manufacturing durable goods,total,2021,M02,2/1/21,7600,40.6,30.65
+manufacturing durable goods,total,2021,M03,3/1/21,7626,40.7,30.7
+manufacturing durable goods,total,2021,M04,4/1/21,7593,40.5,30.88
+manufacturing durable goods,total,2021,M05,5/1/21,7616,40.6,31.01
+manufacturing durable goods,total,2021,M06,6/1/21,7632,40.4,31.11
+manufacturing durable goods,total,2021,M07,7/1/21,7680,40.6,31.29
+manufacturing durable goods,total,2021,M08,8/1/21,7710,40.5,31.35
+manufacturing durable goods,total,2021,M09,9/1/21,7725,40.5,31.52
+manufacturing durable goods,total,2021,M10,10/1/21,7766,40.4,31.62
+manufacturing durable goods,total,2021,M11,11/1/21,7785,40.5,31.79
+manufacturing durable goods,total,2021,M12,12/1/21,7816,40.6,31.88
+manufacturing durable goods,total,2022,M01,1/1/22,7826,40.6,32.13
+manufacturing durable goods,total,2022,M02,2/1/22,7846,41,31.99
+manufacturing durable goods,total,2022,M03,3/1/22,7887,41,32.19
+manufacturing durable goods,total,2022,M04,4/1/22,7921,40.9,32.36
+manufacturing durable goods,total,2022,M05,5/1/22,7932,40.7,32.41
+manufacturing nondurable goods,total,2006,M03,3/1/06,5214,39.1,19.05
+manufacturing nondurable goods,total,2006,M04,4/1/06,5206,39.1,19.25
+manufacturing nondurable goods,total,2006,M05,5/1/06,5186,39.3,19.1
+manufacturing nondurable goods,total,2006,M06,6/1/06,5185,39.4,19.14
+manufacturing nondurable goods,total,2006,M07,7/1/06,5180,39.3,19.23
+manufacturing nondurable goods,total,2006,M08,8/1/06,5167,39.2,19.21
+manufacturing nondurable goods,total,2006,M09,9/1/06,5153,39.2,19.28
+manufacturing nondurable goods,total,2006,M10,10/1/06,5130,39.3,19.45
+manufacturing nondurable goods,total,2006,M11,11/1/06,5123,39.3,19.3
+manufacturing nondurable goods,total,2006,M12,12/1/06,5102,39.2,19.6
+manufacturing nondurable goods,total,2007,M01,1/1/07,5118,39.4,19.42
+manufacturing nondurable goods,total,2007,M02,2/1/07,5108,39.4,19.51
+manufacturing nondurable goods,total,2007,M03,3/1/07,5099,39.4,19.49
+manufacturing nondurable goods,total,2007,M04,4/1/07,5085,39.4,19.69
+manufacturing nondurable goods,total,2007,M05,5/1/07,5083,39.4,19.63
+manufacturing nondurable goods,total,2007,M06,6/1/07,5081,39.5,19.74
+manufacturing nondurable goods,total,2007,M07,7/1/07,5074,39.6,19.79
+manufacturing nondurable goods,total,2007,M08,8/1/07,5050,39.6,19.79
+manufacturing nondurable goods,total,2007,M09,9/1/07,5038,39.6,19.82
+manufacturing nondurable goods,total,2007,M10,10/1/07,5037,39.2,19.73
+manufacturing nondurable goods,total,2007,M11,11/1/07,5033,39.7,19.89
+manufacturing nondurable goods,total,2007,M12,12/1/07,5039,39.8,19.96
+manufacturing nondurable goods,total,2008,M01,1/1/08,5032,39.5,19.89
+manufacturing nondurable goods,total,2008,M02,2/1/08,5023,39.5,19.94
+manufacturing nondurable goods,total,2008,M03,3/1/08,5013,39.8,20.12
+manufacturing nondurable goods,total,2008,M04,4/1/08,5002,39.4,19.95
+manufacturing nondurable goods,total,2008,M05,5/1/08,4985,39.6,20.09
+manufacturing nondurable goods,total,2008,M06,6/1/08,4962,39.7,20.22
+manufacturing nondurable goods,total,2008,M07,7/1/08,4942,39.4,20.13
+manufacturing nondurable goods,total,2008,M08,8/1/08,4928,39.3,20.25
+manufacturing nondurable goods,total,2008,M09,9/1/08,4903,39.2,20.26
+manufacturing nondurable goods,total,2008,M10,10/1/08,4872,39.2,20.39
+manufacturing nondurable goods,total,2008,M11,11/1/08,4841,39,20.48
+manufacturing nondurable goods,total,2008,M12,12/1/08,4785,38.5,20.49
+manufacturing nondurable goods,total,2009,M01,1/1/09,4729,38.5,20.6
+manufacturing nondurable goods,total,2009,M02,2/1/09,4681,38.8,20.64
+manufacturing nondurable goods,total,2009,M03,3/1/09,4631,38.5,20.68
+manufacturing nondurable goods,total,2009,M04,4/1/09,4602,38.4,20.63
+manufacturing nondurable goods,total,2009,M05,5/1/09,4573,38.5,20.63
+manufacturing nondurable goods,total,2009,M06,6/1/09,4544,38.6,20.63
+manufacturing nondurable goods,total,2009,M07,7/1/09,4522,38.8,20.62
+manufacturing nondurable goods,total,2009,M08,8/1/09,4513,39,20.68
+manufacturing nondurable goods,total,2009,M09,9/1/09,4507,38.9,20.66
+manufacturing nondurable goods,total,2009,M10,10/1/09,4494,39,20.65
+manufacturing nondurable goods,total,2009,M11,11/1/09,4489,39.2,20.72
+manufacturing nondurable goods,total,2009,M12,12/1/09,4476,39.4,20.66
+manufacturing nondurable goods,total,2010,M01,1/1/10,4471,39.7,20.71
+manufacturing nondurable goods,total,2010,M02,2/1/10,4468,39.3,20.79
+manufacturing nondurable goods,total,2010,M03,3/1/10,4457,39.6,20.78
+manufacturing nondurable goods,total,2010,M04,4/1/10,4463,39.8,20.82
+manufacturing nondurable goods,total,2010,M05,5/1/10,4472,40.1,20.94
+manufacturing nondurable goods,total,2010,M06,6/1/10,4473,39.7,20.87
+manufacturing nondurable goods,total,2010,M07,7/1/10,4478,39.7,20.99
+manufacturing nondurable goods,total,2010,M08,8/1/10,4463,39.9,21.08
+manufacturing nondurable goods,total,2010,M09,9/1/10,4458,40.1,21.09
+manufacturing nondurable goods,total,2010,M10,10/1/10,4453,40,21.09
+manufacturing nondurable goods,total,2010,M11,11/1/10,4460,39.9,20.96
+manufacturing nondurable goods,total,2010,M12,12/1/10,4458,39.9,21.03
+manufacturing nondurable goods,total,2011,M01,1/1/11,4453,39.9,21.16
+manufacturing nondurable goods,total,2011,M02,2/1/11,4459,39.9,21.03
+manufacturing nondurable goods,total,2011,M03,3/1/11,4461,39.8,21.02
+manufacturing nondurable goods,total,2011,M04,4/1/11,4464,39.8,21.1
+manufacturing nondurable goods,total,2011,M05,5/1/11,4456,40,21.19
+manufacturing nondurable goods,total,2011,M06,6/1/11,4452,39.9,21.13
+manufacturing nondurable goods,total,2011,M07,7/1/11,4457,39.9,21.22
+manufacturing nondurable goods,total,2011,M08,8/1/11,4461,39.7,21.16
+manufacturing nondurable goods,total,2011,M09,9/1/11,4456,39.7,21.23
+manufacturing nondurable goods,total,2011,M10,10/1/11,4450,40,21.31
+manufacturing nondurable goods,total,2011,M11,11/1/11,4439,39.8,21.21
+manufacturing nondurable goods,total,2011,M12,12/1/11,4434,39.9,21.36
+manufacturing nondurable goods,total,2012,M01,1/1/12,4440,40.3,21.43
+manufacturing nondurable goods,total,2012,M02,2/1/12,4440,40.1,21.42
+manufacturing nondurable goods,total,2012,M03,3/1/12,4452,40.1,21.51
+manufacturing nondurable goods,total,2012,M04,4/1/12,4455,40.3,21.58
+manufacturing nondurable goods,total,2012,M05,5/1/12,4456,40,21.47
+manufacturing nondurable goods,total,2012,M06,6/1/12,4456,40.1,21.58
+manufacturing nondurable goods,total,2012,M07,7/1/12,4461,40.2,21.61
+manufacturing nondurable goods,total,2012,M08,8/1/12,4468,40.1,21.51
+manufacturing nondurable goods,total,2012,M09,9/1/12,4471,40.2,21.55
+manufacturing nondurable goods,total,2012,M10,10/1/12,4476,40.2,21.56
+manufacturing nondurable goods,total,2012,M11,11/1/12,4462,40.2,21.65
+manufacturing nondurable goods,total,2012,M12,12/1/12,4455,40.3,21.74
+manufacturing nondurable goods,total,2013,M01,1/1/13,4468,40.1,21.65
+manufacturing nondurable goods,total,2013,M02,2/1/13,4473,40.3,21.78
+manufacturing nondurable goods,total,2013,M03,3/1/13,4468,40.3,21.76
+manufacturing nondurable goods,total,2013,M04,4/1/13,4466,40.1,21.82
+manufacturing nondurable goods,total,2013,M05,5/1/13,4467,40.1,21.88
+manufacturing nondurable goods,total,2013,M06,6/1/13,4465,40.3,21.96
+manufacturing nondurable goods,total,2013,M07,7/1/13,4467,40.1,21.95
+manufacturing nondurable goods,total,2013,M08,8/1/13,4467,40.2,22.02
+manufacturing nondurable goods,total,2013,M09,9/1/13,4468,40.2,22.08
+manufacturing nondurable goods,total,2013,M10,10/1/13,4480,40.1,22.06
+manufacturing nondurable goods,total,2013,M11,11/1/13,4490,40.1,22.11
+manufacturing nondurable goods,total,2013,M12,12/1/13,4492,40.2,22.15
+manufacturing nondurable goods,total,2014,M01,1/1/14,4498,40,22.21
+manufacturing nondurable goods,total,2014,M02,2/1/14,4501,39.9,22.27
+manufacturing nondurable goods,total,2014,M03,3/1/14,4499,40.3,22.27
+manufacturing nondurable goods,total,2014,M04,4/1/14,4502,40,22.31
+manufacturing nondurable goods,total,2014,M05,5/1/14,4499,40.2,22.39
+manufacturing nondurable goods,total,2014,M06,6/1/14,4501,40.2,22.44
+manufacturing nondurable goods,total,2014,M07,7/1/14,4503,40,22.43
+manufacturing nondurable goods,total,2014,M08,8/1/14,4509,40.1,22.52
+manufacturing nondurable goods,total,2014,M09,9/1/14,4517,40,22.43
+manufacturing nondurable goods,total,2014,M10,10/1/14,4527,40.1,22.51
+manufacturing nondurable goods,total,2014,M11,11/1/14,4535,40.3,22.56
+manufacturing nondurable goods,total,2014,M12,12/1/14,4540,40.3,22.56
+manufacturing nondurable goods,total,2015,M01,1/1/15,4540,40.2,22.67
+manufacturing nondurable goods,total,2015,M02,2/1/15,4541,40.3,22.67
+manufacturing nondurable goods,total,2015,M03,3/1/15,4548,40.2,22.74
+manufacturing nondurable goods,total,2015,M04,4/1/15,4555,40.1,22.77
+manufacturing nondurable goods,total,2015,M05,5/1/15,4560,40.1,22.75
+manufacturing nondurable goods,total,2015,M06,6/1/15,4562,39.9,22.74
+manufacturing nondurable goods,total,2015,M07,7/1/15,4575,40.2,22.87
+manufacturing nondurable goods,total,2015,M08,8/1/15,4571,40.4,23.02
+manufacturing nondurable goods,total,2015,M09,9/1/15,4581,40,23.13
+manufacturing nondurable goods,total,2015,M10,10/1/15,4592,40.2,23.16
+manufacturing nondurable goods,total,2015,M11,11/1/15,4601,40,23.25
+manufacturing nondurable goods,total,2015,M12,12/1/15,4612,39.9,23.23
+manufacturing nondurable goods,total,2016,M01,1/1/16,4621,40,23.26
+manufacturing nondurable goods,total,2016,M02,2/1/16,4617,40,23.31
+manufacturing nondurable goods,total,2016,M03,3/1/16,4615,39.9,23.44
+manufacturing nondurable goods,total,2016,M04,4/1/16,4622,39.9,23.55
+manufacturing nondurable goods,total,2016,M05,5/1/16,4625,40,23.67
+manufacturing nondurable goods,total,2016,M06,6/1/16,4646,40,23.71
+manufacturing nondurable goods,total,2016,M07,7/1/16,4654,39.9,23.75
+manufacturing nondurable goods,total,2016,M08,8/1/16,4651,39.9,23.85
+manufacturing nondurable goods,total,2016,M09,9/1/16,4655,40.1,23.93
+manufacturing nondurable goods,total,2016,M10,10/1/16,4653,40,24.06
+manufacturing nondurable goods,total,2016,M11,11/1/16,4656,39.8,24.08
+manufacturing nondurable goods,total,2016,M12,12/1/16,4661,39.9,24.14
+manufacturing nondurable goods,total,2017,M01,1/1/17,4664,40,24.29
+manufacturing nondurable goods,total,2017,M02,2/1/17,4682,39.8,24.29
+manufacturing nondurable goods,total,2017,M03,3/1/17,4688,39.6,24.26
+manufacturing nondurable goods,total,2017,M04,4/1/17,4692,39.9,24.44
+manufacturing nondurable goods,total,2017,M05,5/1/17,4692,39.9,24.39
+manufacturing nondurable goods,total,2017,M06,6/1/17,4697,40,24.37
+manufacturing nondurable goods,total,2017,M07,7/1/17,4705,40.3,24.5
+manufacturing nondurable goods,total,2017,M08,8/1/17,4714,40,24.43
+manufacturing nondurable goods,total,2017,M09,9/1/17,4712,40,24.5
+manufacturing nondurable goods,total,2017,M10,10/1/17,4714,40.2,24.54
+manufacturing nondurable goods,total,2017,M11,11/1/17,4710,40.2,24.58
+manufacturing nondurable goods,total,2017,M12,12/1/17,4715,39.9,24.61
+manufacturing nondurable goods,total,2018,M01,1/1/18,4718,40,24.71
+manufacturing nondurable goods,total,2018,M02,2/1/18,4721,40.3,24.69
+manufacturing nondurable goods,total,2018,M03,3/1/18,4721,40.2,24.7
+manufacturing nondurable goods,total,2018,M04,4/1/18,4726,40.3,24.67
+manufacturing nondurable goods,total,2018,M05,5/1/18,4739,40.3,24.66
+manufacturing nondurable goods,total,2018,M06,6/1/18,4750,40.2,24.69
+manufacturing nondurable goods,total,2018,M07,7/1/18,4753,40.4,24.62
+manufacturing nondurable goods,total,2018,M08,8/1/18,4753,40.4,24.65
+manufacturing nondurable goods,total,2018,M09,9/1/18,4755,40.2,24.64
+manufacturing nondurable goods,total,2018,M10,10/1/18,4753,40.2,24.71
+manufacturing nondurable goods,total,2018,M11,11/1/18,4756,40.3,24.75
+manufacturing nondurable goods,total,2018,M12,12/1/18,4759,40.4,24.82
+manufacturing nondurable goods,total,2019,M01,1/1/19,4760,40.2,24.86
+manufacturing nondurable goods,total,2019,M02,2/1/19,4759,40.1,24.95
+manufacturing nondurable goods,total,2019,M03,3/1/19,4764,40.1,24.96
+manufacturing nondurable goods,total,2019,M04,4/1/19,4771,40,24.94
+manufacturing nondurable goods,total,2019,M05,5/1/19,4775,39.9,25.02
+manufacturing nondurable goods,total,2019,M06,6/1/19,4783,39.9,25.09
+manufacturing nondurable goods,total,2019,M07,7/1/19,4785,39.6,25.21
+manufacturing nondurable goods,total,2019,M08,8/1/19,4788,39.7,25.28
+manufacturing nondurable goods,total,2019,M09,9/1/19,4788,39.7,25.31
+manufacturing nondurable goods,total,2019,M10,10/1/19,4785,39.6,25.41
+manufacturing nondurable goods,total,2019,M11,11/1/19,4791,39.7,25.49
+manufacturing nondurable goods,total,2019,M12,12/1/19,4784,39.7,25.65
+manufacturing nondurable goods,total,2020,M01,1/1/20,4780,39.7,25.75
+manufacturing nondurable goods,total,2020,M02,2/1/20,4778,39.9,25.82
+manufacturing nondurable goods,total,2020,M03,3/1/20,4752,39.8,25.98
+manufacturing nondurable goods,total,2020,M04,4/1/20,4355,38.3,26.81
+manufacturing nondurable goods,total,2020,M05,5/1/20,4453,38.6,26.62
+manufacturing nondurable goods,total,2020,M06,6/1/20,4530,39,26.41
+manufacturing nondurable goods,total,2020,M07,7/1/20,4533,39.4,26.44
+manufacturing nondurable goods,total,2020,M08,8/1/20,4561,39.6,26.54
+manufacturing nondurable goods,total,2020,M09,9/1/20,4575,39.8,26.53
+manufacturing nondurable goods,total,2020,M10,10/1/20,4592,40.2,26.4
+manufacturing nondurable goods,total,2020,M11,11/1/20,4598,39.8,26.49
+manufacturing nondurable goods,total,2020,M12,12/1/20,4610,39.8,26.59
+manufacturing nondurable goods,total,2021,M01,1/1/21,4612,40,26.65
+manufacturing nondurable goods,total,2021,M02,2/1/21,4622,40.1,26.73
+manufacturing nondurable goods,total,2021,M03,3/1/21,4642,40.1,26.69
+manufacturing nondurable goods,total,2021,M04,4/1/21,4647,40.3,26.83
+manufacturing nondurable goods,total,2021,M05,5/1/21,4652,40.1,27.08
+manufacturing nondurable goods,total,2021,M06,6/1/21,4656,40.1,27.17
+manufacturing nondurable goods,total,2021,M07,7/1/21,4670,40.2,27.33
+manufacturing nondurable goods,total,2021,M08,8/1/21,4681,40.2,27.37
+manufacturing nondurable goods,total,2021,M09,9/1/21,4688,40.2,27.52
+manufacturing nondurable goods,total,2021,M10,10/1/21,4700,40.2,27.7
+manufacturing nondurable goods,total,2021,M11,11/1/21,4729,40,27.66
+manufacturing nondurable goods,total,2021,M12,12/1/21,4739,40,27.79
+manufacturing nondurable goods,total,2022,M01,1/1/22,4755,39.9,27.95
+manufacturing nondurable goods,total,2022,M02,2/1/22,4785,40.2,28.01
+manufacturing nondurable goods,total,2022,M03,3/1/22,4802,40.1,27.97
+manufacturing nondurable goods,total,2022,M04,4/1/22,4829,39.9,28.09
+manufacturing nondurable goods,total,2022,M05,5/1/22,4836,39.9,28.05
+wholesale trade,total,2006,M03,3/1/06,5811.6,37.6,22.96
+wholesale trade,total,2006,M04,4/1/06,5823.5,37.6,23
+wholesale trade,total,2006,M05,5/1/06,5835.2,37.5,23.03
+wholesale trade,total,2006,M06,6/1/06,5839.1,37.7,23.17
+wholesale trade,total,2006,M07,7/1/06,5847.9,37.7,23.25
+wholesale trade,total,2006,M08,8/1/06,5856.2,37.6,23.29
+wholesale trade,total,2006,M09,9/1/06,5864.9,37.8,23.47
+wholesale trade,total,2006,M10,10/1/06,5863.4,37.8,23.39
+wholesale trade,total,2006,M11,11/1/06,5874.4,37.9,23.43
+wholesale trade,total,2006,M12,12/1/06,5899.5,37.9,23.78
+wholesale trade,total,2007,M01,1/1/07,5903.6,37.7,23.57
+wholesale trade,total,2007,M02,2/1/07,5918.7,37.9,23.63
+wholesale trade,total,2007,M03,3/1/07,5921.9,38.1,23.75
+wholesale trade,total,2007,M04,4/1/07,5937.6,38,23.79
+wholesale trade,total,2007,M05,5/1/07,5945.2,38.1,23.85
+wholesale trade,total,2007,M06,6/1/07,5955.1,38.1,24.09
+wholesale trade,total,2007,M07,7/1/07,5962,38.1,23.82
+wholesale trade,total,2007,M08,8/1/07,5961.4,38.2,24.02
+wholesale trade,total,2007,M09,9/1/07,5962.6,38.1,24.06
+wholesale trade,total,2007,M10,10/1/07,5969.4,38.1,24.11
+wholesale trade,total,2007,M11,11/1/07,5969.5,38.3,24.04
+wholesale trade,total,2007,M12,12/1/07,5969.7,38.3,24.06
+wholesale trade,total,2008,M01,1/1/08,5967.1,38.4,24.02
+wholesale trade,total,2008,M02,2/1/08,5957.2,38.4,24.07
+wholesale trade,total,2008,M03,3/1/08,5947.5,38.4,24.12
+wholesale trade,total,2008,M04,4/1/08,5925.5,38.5,24.14
+wholesale trade,total,2008,M05,5/1/08,5912.5,38.5,24.22
+wholesale trade,total,2008,M06,6/1/08,5899.8,38.5,24.25
+wholesale trade,total,2008,M07,7/1/08,5878.4,38.6,24.34
+wholesale trade,total,2008,M08,8/1/08,5857.4,38.7,24.57
+wholesale trade,total,2008,M09,9/1/08,5845.4,38.5,24.36
+wholesale trade,total,2008,M10,10/1/08,5806.4,38.4,24.4
+wholesale trade,total,2008,M11,11/1/08,5769.8,38.4,24.63
+wholesale trade,total,2008,M12,12/1/08,5729.4,38.4,24.67
+wholesale trade,total,2009,M01,1/1/09,5698.8,38.5,24.76
+wholesale trade,total,2009,M02,2/1/09,5650.7,38.2,24.87
+wholesale trade,total,2009,M03,3/1/09,5608.3,37.9,24.92
+wholesale trade,total,2009,M04,4/1/09,5561.9,37.9,25.09
+wholesale trade,total,2009,M05,5/1/09,5537.2,38,25.21
+wholesale trade,total,2009,M06,6/1/09,5513.7,37.8,25.26
+wholesale trade,total,2009,M07,7/1/09,5488.4,37.8,25.26
+wholesale trade,total,2009,M08,8/1/09,5471.1,37.8,25.66
+wholesale trade,total,2009,M09,9/1/09,5454.3,37.7,25.62
+wholesale trade,total,2009,M10,10/1/09,5433.4,37.8,25.69
+wholesale trade,total,2009,M11,11/1/09,5423.3,37.8,25.82
+wholesale trade,total,2009,M12,12/1/09,5409.5,37.8,25.84
+wholesale trade,total,2010,M01,1/1/10,5390.2,37.9,26.05
+wholesale trade,total,2010,M02,2/1/10,5379.3,37.8,26.07
+wholesale trade,total,2010,M03,3/1/10,5378.8,38,26.06
+wholesale trade,total,2010,M04,4/1/10,5378.5,38.1,26.02
+wholesale trade,total,2010,M05,5/1/10,5375,38,26.03
+wholesale trade,total,2010,M06,6/1/10,5379.3,38,26.02
+wholesale trade,total,2010,M07,7/1/10,5380.9,38.2,26.02
+wholesale trade,total,2010,M08,8/1/10,5382.6,38.2,25.93
+wholesale trade,total,2010,M09,9/1/10,5388.5,38.4,26.12
+wholesale trade,total,2010,M10,10/1/10,5396.1,38.5,26.19
+wholesale trade,total,2010,M11,11/1/10,5401.6,38.4,26.07
+wholesale trade,total,2010,M12,12/1/10,5408.3,38.4,26.16
+wholesale trade,total,2011,M01,1/1/11,5414.8,38.5,26.2
+wholesale trade,total,2011,M02,2/1/11,5427.5,38.5,26.18
+wholesale trade,total,2011,M03,3/1/11,5443.9,38.6,26.11
+wholesale trade,total,2011,M04,4/1/11,5456.7,38.6,26.2
+wholesale trade,total,2011,M05,5/1/11,5462.6,38.5,26.21
+wholesale trade,total,2011,M06,6/1/11,5470.5,38.7,26.29
+wholesale trade,total,2011,M07,7/1/11,5478.6,38.7,26.35
+wholesale trade,total,2011,M08,8/1/11,5488.1,38.6,26.33
+wholesale trade,total,2011,M09,9/1/11,5492.6,38.8,26.3
+wholesale trade,total,2011,M10,10/1/11,5507.5,38.8,26.43
+wholesale trade,total,2011,M11,11/1/11,5515,38.9,26.38
+wholesale trade,total,2011,M12,12/1/11,5534.7,38.8,26.44
+wholesale trade,total,2012,M01,1/1/12,5550.3,38.8,26.42
+wholesale trade,total,2012,M02,2/1/12,5562.4,38.8,26.44
+wholesale trade,total,2012,M03,3/1/12,5568.8,38.7,26.59
+wholesale trade,total,2012,M04,4/1/12,5582.7,38.7,26.59
+wholesale trade,total,2012,M05,5/1/12,5593.2,38.8,26.65
+wholesale trade,total,2012,M06,6/1/12,5598.9,38.7,26.71
+wholesale trade,total,2012,M07,7/1/12,5609.8,38.6,26.74
+wholesale trade,total,2012,M08,8/1/12,5609.7,38.6,26.79
+wholesale trade,total,2012,M09,9/1/12,5606.7,38.7,26.88
+wholesale trade,total,2012,M10,10/1/12,5617.3,38.5,26.95
+wholesale trade,total,2012,M11,11/1/12,5620.6,38.6,27.08
+wholesale trade,total,2012,M12,12/1/12,5626.6,38.7,27.32
+wholesale trade,total,2013,M01,1/1/13,5640.3,38.5,27.16
+wholesale trade,total,2013,M02,2/1/13,5643.4,38.8,27.18
+wholesale trade,total,2013,M03,3/1/13,5645.6,38.8,27.42
+wholesale trade,total,2013,M04,4/1/13,5645.4,38.5,27.51
+wholesale trade,total,2013,M05,5/1/13,5650.1,38.8,27.49
+wholesale trade,total,2013,M06,6/1/13,5655.8,38.7,27.61
+wholesale trade,total,2013,M07,7/1/13,5662.9,38.7,27.61
+wholesale trade,total,2013,M08,8/1/13,5669,38.9,27.57
+wholesale trade,total,2013,M09,9/1/13,5681.8,38.6,27.73
+wholesale trade,total,2013,M10,10/1/13,5669.9,38.8,27.71
+wholesale trade,total,2013,M11,11/1/13,5681.3,39,27.82
+wholesale trade,total,2013,M12,12/1/13,5687.1,38.7,27.75
+wholesale trade,total,2014,M01,1/1/14,5702.5,38.8,27.81
+wholesale trade,total,2014,M02,2/1/14,5708.7,38.7,27.84
+wholesale trade,total,2014,M03,3/1/14,5713.8,38.9,27.9
+wholesale trade,total,2014,M04,4/1/14,5728.4,38.8,27.93
+wholesale trade,total,2014,M05,5/1/14,5735.2,38.9,27.94
+wholesale trade,total,2014,M06,6/1/14,5746.4,38.9,27.83
+wholesale trade,total,2014,M07,7/1/14,5749.3,38.9,27.85
+wholesale trade,total,2014,M08,8/1/14,5747.4,39,28.14
+wholesale trade,total,2014,M09,9/1/14,5754.7,39,27.98
+wholesale trade,total,2014,M10,10/1/14,5757.2,38.9,27.95
+wholesale trade,total,2014,M11,11/1/14,5760.2,39,28.13
+wholesale trade,total,2014,M12,12/1/14,5767.8,38.9,28.13
+wholesale trade,total,2015,M01,1/1/15,5768.8,38.9,28.21
+wholesale trade,total,2015,M02,2/1/15,5781.1,38.9,28.32
+wholesale trade,total,2015,M03,3/1/15,5782.9,38.8,28.27
+wholesale trade,total,2015,M04,4/1/15,5779.3,38.8,28.35
+wholesale trade,total,2015,M05,5/1/15,5786.8,38.9,28.59
+wholesale trade,total,2015,M06,6/1/15,5784.5,38.8,28.52
+wholesale trade,total,2015,M07,7/1/15,5785,38.9,28.55
+wholesale trade,total,2015,M08,8/1/15,5785.4,38.8,28.71
+wholesale trade,total,2015,M09,9/1/15,5775.8,38.9,28.62
+wholesale trade,total,2015,M10,10/1/15,5777.3,38.9,28.74
+wholesale trade,total,2015,M11,11/1/15,5778.2,38.9,28.72
+wholesale trade,total,2015,M12,12/1/15,5776.5,39,28.73
+wholesale trade,total,2016,M01,1/1/16,5778,39,28.9
+wholesale trade,total,2016,M02,2/1/16,5776.9,38.9,28.92
+wholesale trade,total,2016,M03,3/1/16,5779.9,38.8,29.2
+wholesale trade,total,2016,M04,4/1/16,5785.1,39,29.29
+wholesale trade,total,2016,M05,5/1/16,5783.5,38.8,29.35
+wholesale trade,total,2016,M06,6/1/16,5779.8,38.8,29.34
+wholesale trade,total,2016,M07,7/1/16,5781.3,38.9,29.54
+wholesale trade,total,2016,M08,8/1/16,5784.2,38.8,29.53
+wholesale trade,total,2016,M09,9/1/16,5796.1,38.9,29.53
+wholesale trade,total,2016,M10,10/1/16,5797.5,39,29.7
+wholesale trade,total,2016,M11,11/1/16,5800.3,38.9,29.6
+wholesale trade,total,2016,M12,12/1/16,5796.9,38.9,29.7
+wholesale trade,total,2017,M01,1/1/17,5802.1,38.9,29.81
+wholesale trade,total,2017,M02,2/1/17,5805,38.9,29.82
+wholesale trade,total,2017,M03,3/1/17,5807.1,38.9,29.76
+wholesale trade,total,2017,M04,4/1/17,5807.4,39,29.89
+wholesale trade,total,2017,M05,5/1/17,5807.3,39,29.85
+wholesale trade,total,2017,M06,6/1/17,5813.3,39.1,29.86
+wholesale trade,total,2017,M07,7/1/17,5814.7,39.2,29.94
+wholesale trade,total,2017,M08,8/1/17,5817,39.1,29.87
+wholesale trade,total,2017,M09,9/1/17,5816.4,39,30
+wholesale trade,total,2017,M10,10/1/17,5821.2,39,29.94
+wholesale trade,total,2017,M11,11/1/17,5821.2,39.1,30.02
+wholesale trade,total,2017,M12,12/1/17,5824,39.3,30.13
+wholesale trade,total,2018,M01,1/1/18,5821.7,39,30.09
+wholesale trade,total,2018,M02,2/1/18,5824.6,39,30.13
+wholesale trade,total,2018,M03,3/1/18,5837.3,39,30.15
+wholesale trade,total,2018,M04,4/1/18,5814.1,39,30.16
+wholesale trade,total,2018,M05,5/1/18,5820.2,39.1,30.29
+wholesale trade,total,2018,M06,6/1/18,5824.8,39.2,30.43
+wholesale trade,total,2018,M07,7/1/18,5837.7,39.1,30.37
+wholesale trade,total,2018,M08,8/1/18,5855.7,39.1,30.49
+wholesale trade,total,2018,M09,9/1/18,5852.8,39,30.67
+wholesale trade,total,2018,M10,10/1/18,5856.8,38.9,30.66
+wholesale trade,total,2018,M11,11/1/18,5864.2,38.9,30.71
+wholesale trade,total,2018,M12,12/1/18,5869.1,39,31.03
+wholesale trade,total,2019,M01,1/1/19,5877.7,39,30.84
+wholesale trade,total,2019,M02,2/1/19,5886.4,39,31.01
+wholesale trade,total,2019,M03,3/1/19,5882.7,39,31.29
+wholesale trade,total,2019,M04,4/1/19,5888.5,39,31.1
+wholesale trade,total,2019,M05,5/1/19,5889.5,38.9,31.29
+wholesale trade,total,2019,M06,6/1/19,5883.4,38.9,31.38
+wholesale trade,total,2019,M07,7/1/19,5889.9,38.8,31.3
+wholesale trade,total,2019,M08,8/1/19,5886.8,38.9,31.58
+wholesale trade,total,2019,M09,9/1/19,5888.5,38.9,31.53
+wholesale trade,total,2019,M10,10/1/19,5895.5,38.9,31.61
+wholesale trade,total,2019,M11,11/1/19,5892.1,38.9,31.72
+wholesale trade,total,2019,M12,12/1/19,5896.2,38.8,31.68
+wholesale trade,total,2020,M01,1/1/20,5897.7,38.8,31.72
+wholesale trade,total,2020,M02,2/1/20,5892.8,38.7,31.85
+wholesale trade,total,2020,M03,3/1/20,5875.4,38.7,31.92
+wholesale trade,total,2020,M04,4/1/20,5488.2,37.7,32.47
+wholesale trade,total,2020,M05,5/1/20,5502.7,38,32.46
+wholesale trade,total,2020,M06,6/1/20,5545.3,38.3,32.27
+wholesale trade,total,2020,M07,7/1/20,5528.1,38.3,32.4
+wholesale trade,total,2020,M08,8/1/20,5540.3,38.5,32.53
+wholesale trade,total,2020,M09,9/1/20,5565.7,38.6,32.54
+wholesale trade,total,2020,M10,10/1/20,5574.6,38.7,32.66
+wholesale trade,total,2020,M11,11/1/20,5584.3,38.7,32.78
+wholesale trade,total,2020,M12,12/1/20,5598.2,38.7,32.87
+wholesale trade,total,2021,M01,1/1/21,5611.7,39.1,32.99
+wholesale trade,total,2021,M02,2/1/21,5622.4,38.7,33.13
+wholesale trade,total,2021,M03,3/1/21,5635.5,39.1,33.2
+wholesale trade,total,2021,M04,4/1/21,5647.1,39.2,33.32
+wholesale trade,total,2021,M05,5/1/21,5655.6,39.2,33.46
+wholesale trade,total,2021,M06,6/1/21,5675.6,39.2,33.56
+wholesale trade,total,2021,M07,7/1/21,5693.8,39.3,33.77
+wholesale trade,total,2021,M08,8/1/21,5699.2,39.1,33.84
+wholesale trade,total,2021,M09,9/1/21,5703.9,39.3,33.98
+wholesale trade,total,2021,M10,10/1/21,5716.3,39.4,34.17
+wholesale trade,total,2021,M11,11/1/21,5731.2,39.2,34.19
+wholesale trade,total,2021,M12,12/1/21,5749.7,39.2,34.42
+wholesale trade,total,2022,M01,1/1/22,5762.3,39.1,34.46
+wholesale trade,total,2022,M02,2/1/22,5788.8,39.2,34.6
+wholesale trade,total,2022,M03,3/1/22,5814.7,39.4,34.7
+wholesale trade,total,2022,M04,4/1/22,5837.6,39.2,34.79
+wholesale trade,total,2022,M05,5/1/22,5851.7,39.1,34.85
+retail trade,total,2006,M03,3/1/06,15392,31.2,15.25
+retail trade,total,2006,M04,4/1/06,15347.7,31.6,15.24
+retail trade,total,2006,M05,5/1/06,15320.1,31.4,15.17
+retail trade,total,2006,M06,6/1/06,15330.2,31.5,15.23
+retail trade,total,2006,M07,7/1/06,15329.6,31.6,15.2
+retail trade,total,2006,M08,8/1/06,15338.9,31.6,15.15
+retail trade,total,2006,M09,9/1/06,15354.3,31.6,15.1
+retail trade,total,2006,M10,10/1/06,15373.7,31.6,15.12
+retail trade,total,2006,M11,11/1/06,15402.6,31.8,15.1
+retail trade,total,2006,M12,12/1/06,15407.3,31.7,15.13
+retail trade,total,2007,M01,1/1/07,15447.6,31.7,15.12
+retail trade,total,2007,M02,2/1/07,15479.3,31.6,15.12
+retail trade,total,2007,M03,3/1/07,15547.7,31.7,15.1
+retail trade,total,2007,M04,4/1/07,15513.2,31.6,15.11
+retail trade,total,2007,M05,5/1/07,15534.5,31.7,15.09
+retail trade,total,2007,M06,6/1/07,15513.9,31.9,15.15
+retail trade,total,2007,M07,7/1/07,15515,31.7,15.08
+retail trade,total,2007,M08,8/1/07,15517.1,31.8,15.1
+retail trade,total,2007,M09,9/1/07,15523.3,31.7,15.11
+retail trade,total,2007,M10,10/1/07,15518.4,31.7,15.21
+retail trade,total,2007,M11,11/1/07,15578.9,31.7,15.17
+retail trade,total,2007,M12,12/1/07,15577.4,31.7,15.15
+retail trade,total,2008,M01,1/1/08,15568.5,31.7,15.11
+retail trade,total,2008,M02,2/1/08,15527.5,31.7,15.16
+retail trade,total,2008,M03,3/1/08,15534.5,31.7,15.15
+retail trade,total,2008,M04,4/1/08,15433.6,31.6,15.19
+retail trade,total,2008,M05,5/1/08,15379.2,31.5,15.25
+retail trade,total,2008,M06,6/1/08,15342.8,31.6,15.23
+retail trade,total,2008,M07,7/1/08,15307.4,31.4,15.24
+retail trade,total,2008,M08,8/1/08,15249,31.5,15.29
+retail trade,total,2008,M09,9/1/08,15178.6,31.4,15.27
+retail trade,total,2008,M10,10/1/08,15100.8,31.3,15.23
+retail trade,total,2008,M11,11/1/08,14989.4,31.3,15.26
+retail trade,total,2008,M12,12/1/08,14876.9,30.7,15.29
+retail trade,total,2009,M01,1/1/09,14794.5,31.3,15.31
+retail trade,total,2009,M02,2/1/09,14719.4,31.3,15.31
+retail trade,total,2009,M03,3/1/09,14650.7,31.2,15.35
+retail trade,total,2009,M04,4/1/09,14563.1,31.3,15.31
+retail trade,total,2009,M05,5/1/09,14558.3,31.3,15.38
+retail trade,total,2009,M06,6/1/09,14541,31.2,15.35
+retail trade,total,2009,M07,7/1/09,14488.9,31.2,15.4
+retail trade,total,2009,M08,8/1/09,14480.5,31.2,15.52
+retail trade,total,2009,M09,9/1/09,14450.2,31.5,15.5
+retail trade,total,2009,M10,10/1/09,14381.6,31.3,15.42
+retail trade,total,2009,M11,11/1/09,14379.4,31.3,15.47
+retail trade,total,2009,M12,12/1/09,14334.8,31.1,15.47
+retail trade,total,2010,M01,1/1/10,14401,31.3,15.51
+retail trade,total,2010,M02,2/1/10,14397.1,31.2,15.5
+retail trade,total,2010,M03,3/1/10,14446.7,31.3,15.55
+retail trade,total,2010,M04,4/1/10,14427.2,31.4,15.62
+retail trade,total,2010,M05,5/1/10,14438.6,31.3,15.51
+retail trade,total,2010,M06,6/1/10,14442.1,31.3,15.53
+retail trade,total,2010,M07,7/1/10,14449.2,31.4,15.59
+retail trade,total,2010,M08,8/1/10,14454.3,31.6,15.54
+retail trade,total,2010,M09,9/1/10,14478.3,31.4,15.59
+retail trade,total,2010,M10,10/1/10,14510.7,31.5,15.66
+retail trade,total,2010,M11,11/1/10,14486,31.4,15.66
+retail trade,total,2010,M12,12/1/10,14474.1,31.6,15.67
+retail trade,total,2011,M01,1/1/11,14537.1,31.4,15.73
+retail trade,total,2011,M02,2/1/11,14558.2,31.4,15.76
+retail trade,total,2011,M03,3/1/11,14589.2,31.4,15.74
+retail trade,total,2011,M04,4/1/11,14646.2,31.7,15.8
+retail trade,total,2011,M05,5/1/11,14645.8,31.5,15.84
+retail trade,total,2011,M06,6/1/11,14681.7,31.5,15.82
+retail trade,total,2011,M07,7/1/11,14725.4,31.5,16
+retail trade,total,2011,M08,8/1/11,14719.4,31.5,15.86
+retail trade,total,2011,M09,9/1/11,14743.8,31.7,15.81
+retail trade,total,2011,M10,10/1/11,14749.5,31.7,15.97
+retail trade,total,2011,M11,11/1/11,14754.8,31.7,16.06
+retail trade,total,2011,M12,12/1/11,14747,31.8,16.03
+retail trade,total,2012,M01,1/1/12,14817.1,31.8,16.04
+retail trade,total,2012,M02,2/1/12,14795.3,31.9,16.08
+retail trade,total,2012,M03,3/1/12,14826.1,31.8,16.11
+retail trade,total,2012,M04,4/1/12,14837.7,31.7,16.19
+retail trade,total,2012,M05,5/1/12,14834.4,31.6,16.22
+retail trade,total,2012,M06,6/1/12,14817.5,31.6,16.34
+retail trade,total,2012,M07,7/1/12,14812.4,31.5,16.35
+retail trade,total,2012,M08,8/1/12,14817.4,31.5,16.36
+retail trade,total,2012,M09,9/1/12,14853.7,31.5,16.41
+retail trade,total,2012,M10,10/1/12,14869,31.5,16.43
+retail trade,total,2012,M11,11/1/12,14944.7,31.7,16.38
+retail trade,total,2012,M12,12/1/12,14913.8,31.5,16.53
+retail trade,total,2013,M01,1/1/13,14936.3,31.3,16.56
+retail trade,total,2013,M02,2/1/13,14951.4,31.6,16.55
+retail trade,total,2013,M03,3/1/13,14949.1,31.7,16.6
+retail trade,total,2013,M04,4/1/13,14968.2,31.4,16.6
+retail trade,total,2013,M05,5/1/13,15002,31.6,16.59
+retail trade,total,2013,M06,6/1/13,15048.5,31.4,16.65
+retail trade,total,2013,M07,7/1/13,15089.7,31.5,16.65
+retail trade,total,2013,M08,8/1/13,15129.5,31.5,16.72
+retail trade,total,2013,M09,9/1/13,15162.7,31.3,16.68
+retail trade,total,2013,M10,10/1/13,15196.3,31.3,16.71
+retail trade,total,2013,M11,11/1/13,15212.3,31.2,16.73
+retail trade,total,2013,M12,12/1/13,15287.7,31.3,16.69
+retail trade,total,2014,M01,1/1/14,15262.9,31.2,16.76
+retail trade,total,2014,M02,2/1/14,15243.7,31,16.82
+retail trade,total,2014,M03,3/1/14,15248.1,31.3,16.89
+retail trade,total,2014,M04,4/1/14,15303,31.4,16.97
+retail trade,total,2014,M05,5/1/14,15322.9,31.3,17.01
+retail trade,total,2014,M06,6/1/14,15351.8,31.3,17.03
+retail trade,total,2014,M07,7/1/14,15374.9,31.3,17.07
+retail trade,total,2014,M08,8/1/14,15386.2,31.4,17.08
+retail trade,total,2014,M09,9/1/14,15418.9,31.3,17.09
+retail trade,total,2014,M10,10/1/14,15469.7,31.4,17.1
+retail trade,total,2014,M11,11/1/14,15502.9,31.4,17.2
+retail trade,total,2014,M12,12/1/14,15510.5,31.4,17.07
+retail trade,total,2015,M01,1/1/15,15520.2,31.3,17.32
+retail trade,total,2015,M02,2/1/15,15535.1,31.4,17.35
+retail trade,total,2015,M03,3/1/15,15547.7,31.4,17.32
+retail trade,total,2015,M04,4/1/15,15566.9,31.4,17.39
+retail trade,total,2015,M05,5/1/15,15595.9,31.5,17.43
+retail trade,total,2015,M06,6/1/15,15618.7,31.3,17.47
+retail trade,total,2015,M07,7/1/15,15639,31.3,17.52
+retail trade,total,2015,M08,8/1/15,15637.7,31.4,17.61
+retail trade,total,2015,M09,9/1/15,15642.9,31.8,17.68
+retail trade,total,2015,M10,10/1/15,15675.4,31.4,17.72
+retail trade,total,2015,M11,11/1/15,15695,31.4,17.72
+retail trade,total,2015,M12,12/1/15,15699,31.2,17.76
+retail trade,total,2016,M01,1/1/16,15723.6,31.3,17.71
+retail trade,total,2016,M02,2/1/16,15772.1,31.3,17.78
+retail trade,total,2016,M03,3/1/16,15811.2,31.1,17.85
+retail trade,total,2016,M04,4/1/16,15811.8,31.1,17.83
+retail trade,total,2016,M05,5/1/16,15817.8,31,17.86
+retail trade,total,2016,M06,6/1/16,15846.8,31,17.95
+retail trade,total,2016,M07,7/1/16,15865.9,31,17.89
+retail trade,total,2016,M08,8/1/16,15877.3,30.9,17.91
+retail trade,total,2016,M09,9/1/16,15883.3,30.9,17.93
+retail trade,total,2016,M10,10/1/16,15890.7,30.9,18
+retail trade,total,2016,M11,11/1/16,15857.2,30.8,18.11
+retail trade,total,2016,M12,12/1/16,15882.7,31.1,17.96
+retail trade,total,2017,M01,1/1/17,15917.8,30.9,18.01
+retail trade,total,2017,M02,2/1/17,15882.2,30.8,18.02
+retail trade,total,2017,M03,3/1/17,15864.7,30.9,18.06
+retail trade,total,2017,M04,4/1/17,15848.3,31.2,18.06
+retail trade,total,2017,M05,5/1/17,15835.4,31,18.13
+retail trade,total,2017,M06,6/1/17,15834.7,30.9,18.15
+retail trade,total,2017,M07,7/1/17,15821.5,30.9,18.19
+retail trade,total,2017,M08,8/1/17,15827.1,30.9,18.23
+retail trade,total,2017,M09,9/1/17,15821.4,30.9,18.24
+retail trade,total,2017,M10,10/1/17,15816.8,31,18.26
+retail trade,total,2017,M11,11/1/17,15823.6,31.3,18.29
+retail trade,total,2017,M12,12/1/17,15810.1,31.2,18.37
+retail trade,total,2018,M01,1/1/18,15781.4,31.1,18.41
+retail trade,total,2018,M02,2/1/18,15820.1,31.2,18.47
+retail trade,total,2018,M03,3/1/18,15836.1,31.2,18.51
+retail trade,total,2018,M04,4/1/18,15834.8,31,18.6
+retail trade,total,2018,M05,5/1/18,15843.6,31.1,18.7
+retail trade,total,2018,M06,6/1/18,15798,31.1,18.64
+retail trade,total,2018,M07,7/1/18,15781.6,31,18.75
+retail trade,total,2018,M08,8/1/18,15783.9,30.9,18.85
+retail trade,total,2018,M09,9/1/18,15738.7,30.9,18.92
+retail trade,total,2018,M10,10/1/18,15705.5,30.8,19.02
+retail trade,total,2018,M11,11/1/18,15724.2,30.9,19.08
+retail trade,total,2018,M12,12/1/18,15704.1,30.6,19.23
+retail trade,total,2019,M01,1/1/19,15683.5,30.7,19.36
+retail trade,total,2019,M02,2/1/19,15661.8,30.7,19.46
+retail trade,total,2019,M03,3/1/19,15648.6,30.7,19.48
+retail trade,total,2019,M04,4/1/19,15645.3,30.7,19.51
+retail trade,total,2019,M05,5/1/19,15619.9,30.6,19.52
+retail trade,total,2019,M06,6/1/19,15585.3,30.7,19.64
+retail trade,total,2019,M07,7/1/19,15589.5,30.7,19.76
+retail trade,total,2019,M08,8/1/19,15588.4,30.6,19.77
+retail trade,total,2019,M09,9/1/19,15582.1,30.7,19.81
+retail trade,total,2019,M10,10/1/19,15591.7,30.6,19.88
+retail trade,total,2019,M11,11/1/19,15560.4,30.3,20.01
+retail trade,total,2019,M12,12/1/19,15608.6,30.6,20.03
+retail trade,total,2020,M01,1/1/20,15594.1,30.4,20.15
+retail trade,total,2020,M02,2/1/20,15597.5,30.7,20.27
+retail trade,total,2020,M03,3/1/20,15511,30.6,20.43
+retail trade,total,2020,M04,4/1/20,13352.5,30.5,21.13
+retail trade,total,2020,M05,5/1/20,13689.1,31.2,20.72
+retail trade,total,2020,M06,6/1/20,14496.8,31.1,20.59
+retail trade,total,2020,M07,7/1/20,14744.5,30.7,21.01
+retail trade,total,2020,M08,8/1/20,15044.5,30.8,21.16
+retail trade,total,2020,M09,9/1/20,15054.7,30.9,21.32
+retail trade,total,2020,M10,10/1/20,15113.6,30.9,21.08
+retail trade,total,2020,M11,11/1/20,15111.5,30.9,21.16
+retail trade,total,2020,M12,12/1/20,15170.1,30.5,21.37
+retail trade,total,2021,M01,1/1/21,15243.5,30.7,21.37
+retail trade,total,2021,M02,2/1/21,15292.6,30.5,21.32
+retail trade,total,2021,M03,3/1/21,15328.6,30.7,21.5
+retail trade,total,2021,M04,4/1/21,15338.8,31,21.64
+retail trade,total,2021,M05,5/1/21,15313.6,30.9,21.82
+retail trade,total,2021,M06,6/1/21,15381.9,30.8,21.9
+retail trade,total,2021,M07,7/1/21,15398.1,30.8,21.95
+retail trade,total,2021,M08,8/1/21,15434.7,30.7,22.01
+retail trade,total,2021,M09,9/1/21,15493.6,30.7,22.14
+retail trade,total,2021,M10,10/1/21,15537,30.8,22.22
+retail trade,total,2021,M11,11/1/21,15556.9,31.1,22.33
+retail trade,total,2021,M12,12/1/21,15595.1,31.3,22.5
+retail trade,total,2022,M01,1/1/22,15716.5,30.4,22.59
+retail trade,total,2022,M02,2/1/22,15827.8,30.4,22.66
+retail trade,total,2022,M03,3/1/22,15804.9,30.2,22.81
+retail trade,total,2022,M04,4/1/22,15817.2,30.1,22.77
+retail trade,total,2022,M05,5/1/22,15756.5,30.1,22.85
+transportation and warehousing and utilities,total,2006,M03,3/1/06,4417.8,37.9,19.04
+transportation and warehousing and utilities,total,2006,M04,4/1/06,4433.3,38.1,19.13
+transportation and warehousing and utilities,total,2006,M05,5/1/06,4445.8,38,19.19
+transportation and warehousing and utilities,total,2006,M06,6/1/06,4451.3,38.1,19.2
+transportation and warehousing and utilities,total,2006,M07,7/1/06,4465.7,38.2,19.24
+transportation and warehousing and utilities,total,2006,M08,8/1/06,4465.3,38.1,19.22
+transportation and warehousing and utilities,total,2006,M09,9/1/06,4474.5,38.2,19.19
+transportation and warehousing and utilities,total,2006,M10,10/1/06,4484,38.2,19.17
+transportation and warehousing and utilities,total,2006,M11,11/1/06,4496.1,38.3,19.2
+transportation and warehousing and utilities,total,2006,M12,12/1/06,4516.5,38.2,19.31
+transportation and warehousing and utilities,total,2007,M01,1/1/07,4518,38.2,19.35
+transportation and warehousing and utilities,total,2007,M02,2/1/07,4519.1,38.4,19.47
+transportation and warehousing and utilities,total,2007,M03,3/1/07,4522.5,38.4,19.46
+transportation and warehousing and utilities,total,2007,M04,4/1/07,4525,38.2,19.41
+transportation and warehousing and utilities,total,2007,M05,5/1/07,4526.4,38.5,19.44
+transportation and warehousing and utilities,total,2007,M06,6/1/07,4524.9,38.5,19.56
+transportation and warehousing and utilities,total,2007,M07,7/1/07,4527.9,38.5,19.6
+transportation and warehousing and utilities,total,2007,M08,8/1/07,4524,38.5,19.66
+transportation and warehousing and utilities,total,2007,M09,9/1/07,4546,38.5,19.78
+transportation and warehousing and utilities,total,2007,M10,10/1/07,4541.4,38.3,19.86
+transportation and warehousing and utilities,total,2007,M11,11/1/07,4538.6,38.4,19.95
+transportation and warehousing and utilities,total,2007,M12,12/1/07,4536,38.5,20.23
+transportation and warehousing and utilities,total,2008,M01,1/1/08,4537.8,38.6,19.99
+transportation and warehousing and utilities,total,2008,M02,2/1/08,4541.6,38.5,20.02
+transportation and warehousing and utilities,total,2008,M03,3/1/08,4542.4,38.5,20.04
+transportation and warehousing and utilities,total,2008,M04,4/1/08,4546.8,38.5,20.16
+transportation and warehousing and utilities,total,2008,M05,5/1/08,4535.2,38.4,20.23
+transportation and warehousing and utilities,total,2008,M06,6/1/08,4522.6,38.5,20.32
+transportation and warehousing and utilities,total,2008,M07,7/1/08,4517.4,38.3,20.43
+transportation and warehousing and utilities,total,2008,M08,8/1/08,4500.4,38.5,20.31
+transportation and warehousing and utilities,total,2008,M09,9/1/08,4464.8,38.4,20.36
+transportation and warehousing and utilities,total,2008,M10,10/1/08,4450,38.4,20.36
+transportation and warehousing and utilities,total,2008,M11,11/1/08,4409.1,38.4,20.36
+transportation and warehousing and utilities,total,2008,M12,12/1/08,4382.2,38.4,20.33
+transportation and warehousing and utilities,total,2009,M01,1/1/09,4358.5,38.4,20.26
+transportation and warehousing and utilities,total,2009,M02,2/1/09,4334.5,38.2,20.33
+transportation and warehousing and utilities,total,2009,M03,3/1/09,4301,38.1,20.41
+transportation and warehousing and utilities,total,2009,M04,4/1/09,4255.3,37.9,20.4
+transportation and warehousing and utilities,total,2009,M05,5/1/09,4237.4,38.3,20.41
+transportation and warehousing and utilities,total,2009,M06,6/1/09,4219.8,37.9,20.3
+transportation and warehousing and utilities,total,2009,M07,7/1/09,4198.2,38,20.37
+transportation and warehousing and utilities,total,2009,M08,8/1/09,4187.8,38,20.37
+transportation and warehousing and utilities,total,2009,M09,9/1/09,4179.5,38.2,20.43
+transportation and warehousing and utilities,total,2009,M10,10/1/09,4163.8,38.1,20.52
+transportation and warehousing and utilities,total,2009,M11,11/1/09,4158.3,38.1,20.55
+transportation and warehousing and utilities,total,2009,M12,12/1/09,4108.4,38,20.62
+transportation and warehousing and utilities,total,2010,M01,1/1/10,4129,38.1,20.74
+transportation and warehousing and utilities,total,2010,M02,2/1/10,4129.4,37.5,20.8
+transportation and warehousing and utilities,total,2010,M03,3/1/10,4140.8,37.9,20.81
+transportation and warehousing and utilities,total,2010,M04,4/1/10,4147.1,38.2,20.78
+transportation and warehousing and utilities,total,2010,M05,5/1/10,4158.3,38.4,20.85
+transportation and warehousing and utilities,total,2010,M06,6/1/10,4175.2,38.4,20.86
+transportation and warehousing and utilities,total,2010,M07,7/1/10,4192.6,38.6,20.9
+transportation and warehousing and utilities,total,2010,M08,8/1/10,4188.9,38.6,20.98
+transportation and warehousing and utilities,total,2010,M09,9/1/10,4206.3,38.5,21.05
+transportation and warehousing and utilities,total,2010,M10,10/1/10,4216.4,38.6,21.07
+transportation and warehousing and utilities,total,2010,M11,11/1/10,4225.3,38.6,21.14
+transportation and warehousing and utilities,total,2010,M12,12/1/10,4250.1,38.7,21.1
+transportation and warehousing and utilities,total,2011,M01,1/1/11,4217.3,38.6,21.19
+transportation and warehousing and utilities,total,2011,M02,2/1/11,4248.2,38.7,21.28
+transportation and warehousing and utilities,total,2011,M03,3/1/11,4258.7,38.9,21.34
+transportation and warehousing and utilities,total,2011,M04,4/1/11,4277.4,38.8,21.4
+transportation and warehousing and utilities,total,2011,M05,5/1/11,4285.6,38.7,21.45
+transportation and warehousing and utilities,total,2011,M06,6/1/11,4301.5,38.7,21.56
+transportation and warehousing and utilities,total,2011,M07,7/1/11,4303.8,38.6,21.61
+transportation and warehousing and utilities,total,2011,M08,8/1/11,4310.6,38.5,21.71
+transportation and warehousing and utilities,total,2011,M09,9/1/11,4315.9,38.4,21.71
+transportation and warehousing and utilities,total,2011,M10,10/1/11,4324.1,38.3,21.78
+transportation and warehousing and utilities,total,2011,M11,11/1/11,4328.2,38.3,21.81
+transportation and warehousing and utilities,total,2011,M12,12/1/11,4328.3,38.2,21.89
+transportation and warehousing and utilities,total,2012,M01,1/1/12,4346.3,38.4,21.88
+transportation and warehousing and utilities,total,2012,M02,2/1/12,4372.2,38.3,21.83
+transportation and warehousing and utilities,total,2012,M03,3/1/12,4377,38.3,21.91
+transportation and warehousing and utilities,total,2012,M04,4/1/12,4364.9,38.3,21.96
+transportation and warehousing and utilities,total,2012,M05,5/1/12,4397.5,38.3,21.97
+transportation and warehousing and utilities,total,2012,M06,6/1/12,4397.7,38.4,21.94
+transportation and warehousing and utilities,total,2012,M07,7/1/12,4409.9,38.3,21.96
+transportation and warehousing and utilities,total,2012,M08,8/1/12,4422.2,38.3,21.92
+transportation and warehousing and utilities,total,2012,M09,9/1/12,4426.1,38.3,21.92
+transportation and warehousing and utilities,total,2012,M10,10/1/12,4436.6,38.4,21.85
+transportation and warehousing and utilities,total,2012,M11,11/1/12,4428.1,38.5,21.91
+transportation and warehousing and utilities,total,2012,M12,12/1/12,4463.7,38.4,21.94
+transportation and warehousing and utilities,total,2013,M01,1/1/13,4465,38.5,22.03
+transportation and warehousing and utilities,total,2013,M02,2/1/13,4463.3,38.6,21.96
+transportation and warehousing and utilities,total,2013,M03,3/1/13,4456.9,38.7,22.05
+transportation and warehousing and utilities,total,2013,M04,4/1/13,4471.4,38.5,22.15
+transportation and warehousing and utilities,total,2013,M05,5/1/13,4467.5,38.6,22.19
+transportation and warehousing and utilities,total,2013,M06,6/1/13,4471.8,38.5,22.26
+transportation and warehousing and utilities,total,2013,M07,7/1/13,4463.9,38.6,22.34
+transportation and warehousing and utilities,total,2013,M08,8/1/13,4479.8,38.7,22.43
+transportation and warehousing and utilities,total,2013,M09,9/1/13,4506.2,38.7,22.44
+transportation and warehousing and utilities,total,2013,M10,10/1/13,4512.2,38.8,22.55
+transportation and warehousing and utilities,total,2013,M11,11/1/13,4529.8,38.7,22.58
+transportation and warehousing and utilities,total,2013,M12,12/1/13,4541.2,38.8,22.65
+transportation and warehousing and utilities,total,2014,M01,1/1/14,4561.9,38.7,22.71
+transportation and warehousing and utilities,total,2014,M02,2/1/14,4556.8,38.6,22.78
+transportation and warehousing and utilities,total,2014,M03,3/1/14,4572.6,38.6,22.81
+transportation and warehousing and utilities,total,2014,M04,4/1/14,4586.5,38.7,22.93
+transportation and warehousing and utilities,total,2014,M05,5/1/14,4614.8,38.6,22.93
+transportation and warehousing and utilities,total,2014,M06,6/1/14,4634,38.4,22.91
+transportation and warehousing and utilities,total,2014,M07,7/1/14,4661.5,38.5,22.87
+transportation and warehousing and utilities,total,2014,M08,8/1/14,4676.2,38.6,22.89
+transportation and warehousing and utilities,total,2014,M09,9/1/14,4690.1,38.6,22.9
+transportation and warehousing and utilities,total,2014,M10,10/1/14,4710,38.7,22.86
+transportation and warehousing and utilities,total,2014,M11,11/1/14,4732.6,38.9,22.86
+transportation and warehousing and utilities,total,2014,M12,12/1/14,4760.5,38.9,22.83
+transportation and warehousing and utilities,total,2015,M01,1/1/15,4769.8,38.7,22.71
+transportation and warehousing and utilities,total,2015,M02,2/1/15,4786,39,22.79
+transportation and warehousing and utilities,total,2015,M03,3/1/15,4799,38.8,22.84
+transportation and warehousing and utilities,total,2015,M04,4/1/15,4805.9,38.9,22.82
+transportation and warehousing and utilities,total,2015,M05,5/1/15,4828.1,38.9,22.77
+transportation and warehousing and utilities,total,2015,M06,6/1/15,4855.2,38.8,22.67
+transportation and warehousing and utilities,total,2015,M07,7/1/15,4878.6,38.9,22.77
+transportation and warehousing and utilities,total,2015,M08,8/1/15,4889.4,38.9,22.76
+transportation and warehousing and utilities,total,2015,M09,9/1/15,4898.4,39,22.75
+transportation and warehousing and utilities,total,2015,M10,10/1/15,4898.8,38.9,22.9
+transportation and warehousing and utilities,total,2015,M11,11/1/15,4914.7,38.9,22.91
+transportation and warehousing and utilities,total,2015,M12,12/1/15,4946,39,22.91
+transportation and warehousing and utilities,total,2016,M01,1/1/16,4914.5,39.1,23
+transportation and warehousing and utilities,total,2016,M02,2/1/16,4930.3,38.9,23.01
+transportation and warehousing and utilities,total,2016,M03,3/1/16,4948.9,38.9,22.96
+transportation and warehousing and utilities,total,2016,M04,4/1/16,4964.8,38.8,23.01
+transportation and warehousing and utilities,total,2016,M05,5/1/16,4979.9,38.8,23.02
+transportation and warehousing and utilities,total,2016,M06,6/1/16,4984.1,38.7,23.14
+transportation and warehousing and utilities,total,2016,M07,7/1/16,5009.2,38.8,23.19
+transportation and warehousing and utilities,total,2016,M08,8/1/16,5035.8,38.5,23.25
+transportation and warehousing and utilities,total,2016,M09,9/1/16,5030.8,38.9,23.33
+transportation and warehousing and utilities,total,2016,M10,10/1/16,5047.4,38.7,23.41
+transportation and warehousing and utilities,total,2016,M11,11/1/16,5064.8,38.6,23.46
+transportation and warehousing and utilities,total,2016,M12,12/1/16,5096.9,38.7,23.4
+transportation and warehousing and utilities,total,2017,M01,1/1/17,5081.9,38.8,23.49
+transportation and warehousing and utilities,total,2017,M02,2/1/17,5098.9,38.7,23.55
+transportation and warehousing and utilities,total,2017,M03,3/1/17,5112.9,38.4,23.6
+transportation and warehousing and utilities,total,2017,M04,4/1/17,5131.5,38.6,23.58
+transportation and warehousing and utilities,total,2017,M05,5/1/17,5161.6,38.8,23.66
+transportation and warehousing and utilities,total,2017,M06,6/1/17,5176.8,38.9,23.76
+transportation and warehousing and utilities,total,2017,M07,7/1/17,5186.3,38.9,23.78
+transportation and warehousing and utilities,total,2017,M08,8/1/17,5198.8,38.8,23.78
+transportation and warehousing and utilities,total,2017,M09,9/1/17,5229.8,38.6,23.89
+transportation and warehousing and utilities,total,2017,M10,10/1/17,5247.3,38.7,23.94
+transportation and warehousing and utilities,total,2017,M11,11/1/17,5257.7,38.9,24.05
+transportation and warehousing and utilities,total,2017,M12,12/1/17,5281.9,38.6,24.15
+transportation and warehousing and utilities,total,2018,M01,1/1/18,5287.6,38.8,24.16
+transportation and warehousing and utilities,total,2018,M02,2/1/18,5316.5,39,24.17
+transportation and warehousing and utilities,total,2018,M03,3/1/18,5345.1,38.8,24.26
+transportation and warehousing and utilities,total,2018,M04,4/1/18,5371.7,39.1,24.21
+transportation and warehousing and utilities,total,2018,M05,5/1/18,5405.2,39,24.18
+transportation and warehousing and utilities,total,2018,M06,6/1/18,5429.6,39.1,24.16
+transportation and warehousing and utilities,total,2018,M07,7/1/18,5442.2,39.2,24.14
+transportation and warehousing and utilities,total,2018,M08,8/1/18,5474.1,39.1,24.23
+transportation and warehousing and utilities,total,2018,M09,9/1/18,5497.2,38.9,24.24
+transportation and warehousing and utilities,total,2018,M10,10/1/18,5521.6,38.9,24.28
+transportation and warehousing and utilities,total,2018,M11,11/1/18,5541.1,39,24.36
+transportation and warehousing and utilities,total,2018,M12,12/1/18,5524.5,38.9,24.46
+transportation and warehousing and utilities,total,2019,M01,1/1/19,5584.4,38.7,24.43
+transportation and warehousing and utilities,total,2019,M02,2/1/19,5571.8,38.6,24.57
+transportation and warehousing and utilities,total,2019,M03,3/1/19,5577.1,38.7,24.71
+transportation and warehousing and utilities,total,2019,M04,4/1/19,5619.6,38.7,24.66
+transportation and warehousing and utilities,total,2019,M05,5/1/19,5648,38.6,24.75
+transportation and warehousing and utilities,total,2019,M06,6/1/19,5686.1,38.5,24.7
+transportation and warehousing and utilities,total,2019,M07,7/1/19,5701.7,38.4,24.77
+transportation and warehousing and utilities,total,2019,M08,8/1/19,5703,38.4,24.79
+transportation and warehousing and utilities,total,2019,M09,9/1/19,5718.7,38.4,24.82
+transportation and warehousing and utilities,total,2019,M10,10/1/19,5720.8,38.4,24.83
+transportation and warehousing and utilities,total,2019,M11,11/1/19,5734.1,38.2,24.82
+transportation and warehousing and utilities,total,2019,M12,12/1/19,5747.2,38.3,24.87
+transportation and warehousing and utilities,total,2020,M01,1/1/20,5802.9,38.3,24.96
+transportation and warehousing and utilities,total,2020,M02,2/1/20,5794.8,38.2,25.08
+transportation and warehousing and utilities,total,2020,M03,3/1/20,5786.9,37.9,25.16
+transportation and warehousing and utilities,total,2020,M04,4/1/20,5289.2,37.2,25.65
+transportation and warehousing and utilities,total,2020,M05,5/1/20,5318.4,37.8,25.58
+transportation and warehousing and utilities,total,2020,M06,6/1/20,5448.8,38.1,25.08
+transportation and warehousing and utilities,total,2020,M07,7/1/20,5510.1,38.4,25.17
+transportation and warehousing and utilities,total,2020,M08,8/1/20,5598.7,38.6,25.26
+transportation and warehousing and utilities,total,2020,M09,9/1/20,5666.4,38.8,25.29
+transportation and warehousing and utilities,total,2020,M10,10/1/20,5745.5,39,25.36
+transportation and warehousing and utilities,total,2020,M11,11/1/20,5827.2,39.1,25.41
+transportation and warehousing and utilities,total,2020,M12,12/1/20,5848.1,38.9,25.83
+transportation and warehousing and utilities,total,2021,M01,1/1/21,5881.1,39,25.64
+transportation and warehousing and utilities,total,2021,M02,2/1/21,5945.7,38.8,25.74
+transportation and warehousing and utilities,total,2021,M03,3/1/21,5995.8,39.2,25.76
+transportation and warehousing and utilities,total,2021,M04,4/1/21,5997.8,39.4,26.03
+transportation and warehousing and utilities,total,2021,M05,5/1/21,6026.6,39.3,26.19
+transportation and warehousing and utilities,total,2021,M06,6/1/21,6061.5,39,26.45
+transportation and warehousing and utilities,total,2021,M07,7/1/21,6101.4,38.7,26.57
+transportation and warehousing and utilities,total,2021,M08,8/1/21,6133.3,38.7,26.57
+transportation and warehousing and utilities,total,2021,M09,9/1/21,6169.7,38.6,26.66
+transportation and warehousing and utilities,total,2021,M10,10/1/21,6220.2,38.7,26.74
+transportation and warehousing and utilities,total,2021,M11,11/1/21,6257.4,38.2,27.13
+transportation and warehousing and utilities,total,2021,M12,12/1/21,6279.7,38.1,27.36
+transportation and warehousing and utilities,total,2022,M01,1/1/22,6333.1,38,27.47
+transportation and warehousing and utilities,total,2022,M02,2/1/22,6406.9,38,27.63
+transportation and warehousing and utilities,total,2022,M03,3/1/22,6410.6,37.8,27.81
+transportation and warehousing and utilities,total,2022,M04,4/1/22,6456.8,38.1,27.96
+transportation and warehousing and utilities,total,2022,M05,5/1/22,6503.8,38.2,28.23
+information,total,2006,M03,3/1/06,3055,36.4,26.74
+information,total,2006,M04,4/1/06,3046,36.4,26.89
+information,total,2006,M05,5/1/06,3039,36.5,27.02
+information,total,2006,M06,6/1/06,3036,36.5,27.16
+information,total,2006,M07,7/1/06,3031,36.4,27.14
+information,total,2006,M08,8/1/06,3035,36.5,27.21
+information,total,2006,M09,9/1/06,3028,36.3,27.43
+information,total,2006,M10,10/1/06,3024,36.2,27.29
+information,total,2006,M11,11/1/06,3025,36.1,27.51
+information,total,2006,M12,12/1/06,3032,36.2,27.69
+information,total,2007,M01,1/1/07,3029,36,28
+information,total,2007,M02,2/1/07,3033,36.1,27.92
+information,total,2007,M03,3/1/07,3029,36.2,27.92
+information,total,2007,M04,4/1/07,3034,36.1,27.99
+information,total,2007,M05,5/1/07,3040,35.9,28.12
+information,total,2007,M06,6/1/07,3038,36,28.08
+information,total,2007,M07,7/1/07,3037,36.2,28.04
+information,total,2007,M08,8/1/07,3029,36.1,28.11
+information,total,2007,M09,9/1/07,3030,36,28.04
+information,total,2007,M10,10/1/07,3028,36.1,28.23
+information,total,2007,M11,11/1/07,3025,36.2,28.32
+information,total,2007,M12,12/1/07,3024,35.8,28.17
+information,total,2008,M01,1/1/08,3025,36.5,28.42
+information,total,2008,M02,2/1/08,3019,36.6,28.31
+information,total,2008,M03,3/1/08,3021,36.5,28.53
+information,total,2008,M04,4/1/08,3012,36.6,28.57
+information,total,2008,M05,5/1/08,3008,36.5,28.53
+information,total,2008,M06,6/1/08,3001,36.1,28.54
+information,total,2008,M07,7/1/08,2987,36.6,28.87
+information,total,2008,M08,8/1/08,2973,36.7,28.91
+information,total,2008,M09,9/1/08,2961,36.7,28.84
+information,total,2008,M10,10/1/08,2950,36.8,28.77
+information,total,2008,M11,11/1/08,2932,36.5,28.76
+information,total,2008,M12,12/1/08,2909,36.7,28.91
+information,total,2009,M01,1/1/09,2891,36.5,28.84
+information,total,2009,M02,2/1/09,2878,36.4,28.99
+information,total,2009,M03,3/1/09,2864,36.4,28.76
+information,total,2009,M04,4/1/09,2833,36.3,28.83
+information,total,2009,M05,5/1/09,2807,36.5,29.25
+information,total,2009,M06,6/1/09,2796,36.4,29.38
+information,total,2009,M07,7/1/09,2780,36.5,29.72
+information,total,2009,M08,8/1/09,2767,36.3,29.61
+information,total,2009,M09,9/1/09,2768,36.5,29.61
+information,total,2009,M10,10/1/09,2763,36.4,29.83
+information,total,2009,M11,11/1/09,2752,36.6,29.9
+information,total,2009,M12,12/1/09,2743,36.6,29.89
+information,total,2010,M01,1/1/10,2737,36.6,29.91
+information,total,2010,M02,2/1/10,2737,36.5,30.14
+information,total,2010,M03,3/1/10,2718,36.6,30.16
+information,total,2010,M04,4/1/10,2715,36.6,30.08
+information,total,2010,M05,5/1/10,2709,36.6,30.31
+information,total,2010,M06,6/1/10,2703,36.6,30.43
+information,total,2010,M07,7/1/10,2703,36.6,30.55
+information,total,2010,M08,8/1/10,2702,36.6,30.67
+information,total,2010,M09,9/1/10,2697,36.6,30.95
+information,total,2010,M10,10/1/10,2695,36.8,31.16
+information,total,2010,M11,11/1/10,2689,36.6,31.26
+information,total,2010,M12,12/1/10,2682,36.6,31.08
+information,total,2011,M01,1/1/11,2678,36.6,31.48
+information,total,2011,M02,2/1/11,2673,36.6,31.53
+information,total,2011,M03,3/1/11,2672,36.7,31.8
+information,total,2011,M04,4/1/11,2674,36.7,31.65
+information,total,2011,M05,5/1/11,2679,36.7,31.6
+information,total,2011,M06,6/1/11,2685,36.6,31.52
+information,total,2011,M07,7/1/11,2676,36.7,31.55
+information,total,2011,M08,8/1/11,2634,36.5,31.66
+information,total,2011,M09,9/1/11,2677,36.7,31.36
+information,total,2011,M10,10/1/11,2677,36.8,31.7
+information,total,2011,M11,11/1/11,2676,36.8,31.63
+information,total,2011,M12,12/1/11,2678,36.8,31.71
+information,total,2012,M01,1/1/12,2665,36.8,31.62
+information,total,2012,M02,2/1/12,2676,36.8,31.61
+information,total,2012,M03,3/1/12,2678,36.7,31.62
+information,total,2012,M04,4/1/12,2679,36.6,31.7
+information,total,2012,M05,5/1/12,2685,36.6,31.83
+information,total,2012,M06,6/1/12,2674,36.6,31.8
+information,total,2012,M07,7/1/12,2680,36.5,31.88
+information,total,2012,M08,8/1/12,2676,36.5,31.7
+information,total,2012,M09,9/1/12,2670,36.5,31.81
+information,total,2012,M10,10/1/12,2667,36.4,31.85
+information,total,2012,M11,11/1/12,2674,36.4,31.82
+information,total,2012,M12,12/1/12,2675,36.5,32.19
+information,total,2013,M01,1/1/13,2661,36.4,32.49
+information,total,2013,M02,2/1/13,2699,36.5,32.51
+information,total,2013,M03,3/1/13,2699,36.5,32.61
+information,total,2013,M04,4/1/13,2696,36.5,32.77
+information,total,2013,M05,5/1/13,2711,36.6,32.73
+information,total,2013,M06,6/1/13,2707,36.9,32.96
+information,total,2013,M07,7/1/13,2720,36.6,32.87
+information,total,2013,M08,8/1/13,2690,36.9,32.91
+information,total,2013,M09,9/1/13,2707,36.7,33.09
+information,total,2013,M10,10/1/13,2719,36.8,33.31
+information,total,2013,M11,11/1/13,2724,36.8,33.38
+information,total,2013,M12,12/1/13,2726,36.8,33.38
+information,total,2014,M01,1/1/14,2721,36.7,33.41
+information,total,2014,M02,2/1/14,2719,36.8,33.44
+information,total,2014,M03,3/1/14,2725,36.9,33.73
+information,total,2014,M04,4/1/14,2722,36.8,33.91
+information,total,2014,M05,5/1/14,2719,36.7,33.94
+information,total,2014,M06,6/1/14,2725,36.6,34.01
+information,total,2014,M07,7/1/14,2724,36.6,34.29
+information,total,2014,M08,8/1/14,2731,36.7,34.35
+information,total,2014,M09,9/1/14,2732,36.8,34.54
+information,total,2014,M10,10/1/14,2726,36.7,34.26
+information,total,2014,M11,11/1/14,2735,36.6,34.38
+information,total,2014,M12,12/1/14,2735,36.5,34.44
+information,total,2015,M01,1/1/15,2738,36.5,34.51
+information,total,2015,M02,2/1/15,2742,36.4,34.66
+information,total,2015,M03,3/1/15,2737,36.3,34.74
+information,total,2015,M04,4/1/15,2741,36.3,34.74
+information,total,2015,M05,5/1/15,2749,36.3,34.89
+information,total,2015,M06,6/1/15,2750,36.3,34.93
+information,total,2015,M07,7/1/15,2753,36.3,35.04
+information,total,2015,M08,8/1/15,2754,36.2,35.38
+information,total,2015,M09,9/1/15,2764,36,35.43
+information,total,2015,M10,10/1/15,2763,36.1,35.58
+information,total,2015,M11,11/1/15,2750,36.1,35.72
+information,total,2015,M12,12/1/15,2759,36,35.87
+information,total,2016,M01,1/1/16,2762,36.4,35.99
+information,total,2016,M02,2/1/16,2776,36,36.24
+information,total,2016,M03,3/1/16,2785,36,36.15
+information,total,2016,M04,4/1/16,2789,36,36.25
+information,total,2016,M05,5/1/16,2753,36,36.47
+information,total,2016,M06,6/1/16,2798,36,36.52
+information,total,2016,M07,7/1/16,2799,36.1,36.64
+information,total,2016,M08,8/1/16,2805,35.9,36.85
+information,total,2016,M09,9/1/16,2812,35.8,37.07
+information,total,2016,M10,10/1/16,2814,35.9,37.38
+information,total,2016,M11,11/1/16,2811,36,37.45
+information,total,2016,M12,12/1/16,2812,36.1,37.51
+information,total,2017,M01,1/1/17,2824,36.5,37.51
+information,total,2017,M02,2/1/17,2815,36.3,37.54
+information,total,2017,M03,3/1/17,2812,36.3,37.66
+information,total,2017,M04,4/1/17,2807,36.3,38.04
+information,total,2017,M05,5/1/17,2804,36.2,38.21
+information,total,2017,M06,6/1/17,2808,36.2,38.55
+information,total,2017,M07,7/1/17,2809,36.2,38.72
+information,total,2017,M08,8/1/17,2816,36.1,38.73
+information,total,2017,M09,9/1/17,2813,36.2,38.63
+information,total,2017,M10,10/1/17,2812,36.1,38.59
+information,total,2017,M11,11/1/17,2812,36,38.69
+information,total,2017,M12,12/1/17,2817,36.2,38.82
+information,total,2018,M01,1/1/18,2818,35.9,38.94
+information,total,2018,M02,2/1/18,2813,36,39.1
+information,total,2018,M03,3/1/18,2824,36.1,39.31
+information,total,2018,M04,4/1/18,2838,36,39.48
+information,total,2018,M05,5/1/18,2837,35.9,39.61
+information,total,2018,M06,6/1/18,2840,35.7,39.88
+information,total,2018,M07,7/1/18,2842,36,39.83
+information,total,2018,M08,8/1/18,2843,36.1,40.22
+information,total,2018,M09,9/1/18,2839,36.2,40.67
+information,total,2018,M10,10/1/18,2851,36.2,40.92
+information,total,2018,M11,11/1/18,2851,36.2,41.09
+information,total,2018,M12,12/1/18,2853,36.4,41.5
+information,total,2019,M01,1/1/19,2843,36.2,41.73
+information,total,2019,M02,2/1/19,2836,36.2,41.76
+information,total,2019,M03,3/1/19,2848,36.3,42.01
+information,total,2019,M04,4/1/19,2846,36.1,41.87
+information,total,2019,M05,5/1/19,2853,36.3,42.03
+information,total,2019,M06,6/1/19,2873,36.4,41.91
+information,total,2019,M07,7/1/19,2868,36.2,42.2
+information,total,2019,M08,8/1/19,2868,36.5,43.04
+information,total,2019,M09,9/1/19,2872,36.6,42.28
+information,total,2019,M10,10/1/19,2873,36.5,42.27
+information,total,2019,M11,11/1/19,2883,36.3,42.55
+information,total,2019,M12,12/1/19,2894,36.2,42.64
+information,total,2020,M01,1/1/20,2897,36.1,42.86
+information,total,2020,M02,2/1/20,2903,36.3,43.04
+information,total,2020,M03,3/1/20,2898,36.3,43.26
+information,total,2020,M04,4/1/20,2642,36.5,43.68
+information,total,2020,M05,5/1/20,2606,36.6,43.71
+information,total,2020,M06,6/1/20,2624,36.5,43.53
+information,total,2020,M07,7/1/20,2617,36.2,44.2
+information,total,2020,M08,8/1/20,2640,36.7,44.12
+information,total,2020,M09,9/1/20,2698,36.7,44.03
+information,total,2020,M10,10/1/20,2698,36.9,44.62
+information,total,2020,M11,11/1/20,2706,37,44.45
+information,total,2020,M12,12/1/20,2719,37,44.28
+information,total,2021,M01,1/1/21,2745,37.4,44.36
+information,total,2021,M02,2/1/21,2758,37.2,44.66
+information,total,2021,M03,3/1/21,2768,37.1,44.06
+information,total,2021,M04,4/1/21,2788,37.2,44.25
+information,total,2021,M05,5/1/21,2803,37.1,44.2
+information,total,2021,M06,6/1/21,2820,37.1,44.28
+information,total,2021,M07,7/1/21,2841,37,44.28
+information,total,2021,M08,8/1/21,2866,37,44.3
+information,total,2021,M09,9/1/21,2874,36.7,44.3
+information,total,2021,M10,10/1/21,2886,36.9,44.6
+information,total,2021,M11,11/1/21,2904,36.8,44.57
+information,total,2021,M12,12/1/21,2913,36.9,44.96
+information,total,2022,M01,1/1/22,2918,36.9,44.77
+information,total,2022,M02,2/1/22,2918,36.9,45.17
+information,total,2022,M03,3/1/22,2936,36.9,45.23
+information,total,2022,M04,4/1/22,2951,36.8,45.37
+information,total,2022,M05,5/1/22,2967,36.6,45.71
+financial services,total,2006,M03,3/1/06,8349,36.7,24.05
+financial services,total,2006,M04,4/1/06,8371,36.8,24.52
+financial services,total,2006,M05,5/1/06,8376,36.7,24.32
+financial services,total,2006,M06,6/1/06,8364,36.8,24.38
+financial services,total,2006,M07,7/1/06,8366,36.6,24.82
+financial services,total,2006,M08,8/1/06,8374,36.5,24.83
+financial services,total,2006,M09,9/1/06,8390,36.7,24.89
+financial services,total,2006,M10,10/1/06,8385,36.4,24.91
+financial services,total,2006,M11,11/1/06,8393,36.5,25.16
+financial services,total,2006,M12,12/1/06,8393,36.7,25.16
+financial services,total,2007,M01,1/1/07,8389,36.6,25.19
+financial services,total,2007,M02,2/1/07,8390,36.6,25.32
+financial services,total,2007,M03,3/1/07,8380,36.5,25.41
+financial services,total,2007,M04,4/1/07,8361,36.5,25.44
+financial services,total,2007,M05,5/1/07,8370,36.4,25.54
+financial services,total,2007,M06,6/1/07,8368,36.7,25.65
+financial services,total,2007,M07,7/1/07,8370,36.5,25.69
+financial services,total,2007,M08,8/1/07,8342,36.5,25.75
+financial services,total,2007,M09,9/1/07,8319,36.4,25.78
+financial services,total,2007,M10,10/1/07,8308,36.5,25.8
+financial services,total,2007,M11,11/1/07,8293,36.4,25.88
+financial services,total,2007,M12,12/1/07,8282,36.5,25.94
+financial services,total,2008,M01,1/1/08,8277,36.5,26
+financial services,total,2008,M02,2/1/08,8268,36.6,26.06
+financial services,total,2008,M03,3/1/08,8267,36.6,26.11
+financial services,total,2008,M04,4/1/08,8256,36.6,26.14
+financial services,total,2008,M05,5/1/08,8248,36.7,26.16
+financial services,total,2008,M06,6/1/08,8236,36.6,26.06
+financial services,total,2008,M07,7/1/08,8219,36.5,26.24
+financial services,total,2008,M08,8/1/08,8205,36.6,26.29
+financial services,total,2008,M09,9/1/08,8172,36.4,26.42
+financial services,total,2008,M10,10/1/08,8139,36.6,26.32
+financial services,total,2008,M11,11/1/08,8102,36.6,26.29
+financial services,total,2008,M12,12/1/08,8070,36.5,26.3
+financial services,total,2009,M01,1/1/09,8017,36.7,26.27
+financial services,total,2009,M02,2/1/09,7968,36.7,26.27
+financial services,total,2009,M03,3/1/09,7927,36.6,26.26
+financial services,total,2009,M04,4/1/09,7870,36.7,26.27
+financial services,total,2009,M05,5/1/09,7844,36.6,26.39
+financial services,total,2009,M06,6/1/09,7820,36.5,26.48
+financial services,total,2009,M07,7/1/09,7806,36.6,26.51
+financial services,total,2009,M08,8/1/09,7782,36.6,26.6
+financial services,total,2009,M09,9/1/09,7771,36.5,26.7
+financial services,total,2009,M10,10/1/09,7754,36.7,26.81
+financial services,total,2009,M11,11/1/09,7756,36.6,26.93
+financial services,total,2009,M12,12/1/09,7743,36.6,26.92
+financial services,total,2010,M01,1/1/10,7732,36.8,26.97
+financial services,total,2010,M02,2/1/10,7724,36.8,26.99
+financial services,total,2010,M03,3/1/10,7708,36.9,27.07
+financial services,total,2010,M04,4/1/10,7708,36.9,27.18
+financial services,total,2010,M05,5/1/10,7699,37,27.22
+financial services,total,2010,M06,6/1/10,7688,37.2,27.17
+financial services,total,2010,M07,7/1/10,7677,37,27.35
+financial services,total,2010,M08,8/1/10,7676,37,27.34
+financial services,total,2010,M09,9/1/10,7683,37,27.36
+financial services,total,2010,M10,10/1/10,7682,37.1,27.43
+financial services,total,2010,M11,11/1/10,7681,37.1,27.42
+financial services,total,2010,M12,12/1/10,7684,37.1,27.57
+financial services,total,2011,M01,1/1/11,7680,37,27.54
+financial services,total,2011,M02,2/1/11,7676,37.1,27.61
+financial services,total,2011,M03,3/1/11,7681,37,27.67
+financial services,total,2011,M04,4/1/11,7679,37.2,27.67
+financial services,total,2011,M05,5/1/11,7702,37.2,27.72
+financial services,total,2011,M06,6/1/11,7692,37.3,27.81
+financial services,total,2011,M07,7/1/11,7694,37.4,27.85
+financial services,total,2011,M08,8/1/11,7700,37.2,27.94
+financial services,total,2011,M09,9/1/11,7694,37.5,28.11
+financial services,total,2011,M10,10/1/11,7707,37.4,28.29
+financial services,total,2011,M11,11/1/11,7721,37.4,28.36
+financial services,total,2011,M12,12/1/11,7729,37.3,28.36
+financial services,total,2012,M01,1/1/12,7735,37.3,28.59
+financial services,total,2012,M02,2/1/12,7743,37.3,28.73
+financial services,total,2012,M03,3/1/12,7768,37.2,28.91
+financial services,total,2012,M04,4/1/12,7771,37.2,29.04
+financial services,total,2012,M05,5/1/12,7783,37,29.12
+financial services,total,2012,M06,6/1/12,7783,37,29.11
+financial services,total,2012,M07,7/1/12,7779,37.1,29.19
+financial services,total,2012,M08,8/1/12,7788,37.1,29.29
+financial services,total,2012,M09,9/1/12,7800,37.3,29.43
+financial services,total,2012,M10,10/1/12,7809,37.2,29.54
+financial services,total,2012,M11,11/1/12,7815,37.3,29.68
+financial services,total,2012,M12,12/1/12,7827,37.3,29.8
+financial services,total,2013,M01,1/1/13,7836,37.1,29.89
+financial services,total,2013,M02,2/1/13,7850,37.2,29.96
+financial services,total,2013,M03,3/1/13,7857,37.1,29.91
+financial services,total,2013,M04,4/1/13,7872,37.2,29.97
+financial services,total,2013,M05,5/1/13,7883,37.2,29.99
+financial services,total,2013,M06,6/1/13,7888,37.3,30.16
+financial services,total,2013,M07,7/1/13,7904,37,30.26
+financial services,total,2013,M08,8/1/13,7903,37.2,30.32
+financial services,total,2013,M09,9/1/13,7904,37.2,30.3
+financial services,total,2013,M10,10/1/13,7910,37.1,30.32
+financial services,total,2013,M11,11/1/13,7910,37.3,30.35
+financial services,total,2013,M12,12/1/13,7914,37,30.38
+financial services,total,2014,M01,1/1/14,7913,37.1,30.32
+financial services,total,2014,M02,2/1/14,7930,37.2,30.43
+financial services,total,2014,M03,3/1/14,7932,37.2,30.55
+financial services,total,2014,M04,4/1/14,7944,37.1,30.56
+financial services,total,2014,M05,5/1/14,7951,37.2,30.58
+financial services,total,2014,M06,6/1/14,7968,37.2,30.72
+financial services,total,2014,M07,7/1/14,7980,37.1,30.77
+financial services,total,2014,M08,8/1/14,7995,37.3,30.88
+financial services,total,2014,M09,9/1/14,8008,37.3,30.9
+financial services,total,2014,M10,10/1/14,8016,37.3,30.93
+financial services,total,2014,M11,11/1/14,8034,37.4,31.04
+financial services,total,2014,M12,12/1/14,8041,37.4,31.04
+financial services,total,2015,M01,1/1/15,8059,37.4,31.07
+financial services,total,2015,M02,2/1/15,8072,37.4,31.17
+financial services,total,2015,M03,3/1/15,8081,37.5,31.22
+financial services,total,2015,M04,4/1/15,8088,37.6,31.36
+financial services,total,2015,M05,5/1/15,8095,37.6,31.54
+financial services,total,2015,M06,6/1/15,8117,37.6,31.6
+financial services,total,2015,M07,7/1/15,8137,37.6,31.5
+financial services,total,2015,M08,8/1/15,8143,37.7,31.59
+financial services,total,2015,M09,9/1/15,8153,37.7,31.67
+financial services,total,2015,M10,10/1/15,8168,37.6,31.72
+financial services,total,2015,M11,11/1/15,8180,37.6,31.72
+financial services,total,2015,M12,12/1/15,8188,37.7,31.82
+financial services,total,2016,M01,1/1/16,8208,37.7,32.03
+financial services,total,2016,M02,2/1/16,8211,37.6,32.02
+financial services,total,2016,M03,3/1/16,8227,37.6,32.19
+financial services,total,2016,M04,4/1/16,8252,37.7,32.15
+financial services,total,2016,M05,5/1/16,8264,37.5,32.2
+financial services,total,2016,M06,6/1/16,8280,37.4,32.21
+financial services,total,2016,M07,7/1/16,8302,37.7,32.42
+financial services,total,2016,M08,8/1/16,8317,37.5,32.48
+financial services,total,2016,M09,9/1/16,8324,37.5,32.57
+financial services,total,2016,M10,10/1/16,8331,37.5,32.44
+financial services,total,2016,M11,11/1/16,8342,37.4,32.62
+financial services,total,2016,M12,12/1/16,8368,37.4,32.69
+financial services,total,2017,M01,1/1/17,8397,37.2,32.71
+financial services,total,2017,M02,2/1/17,8397,37.4,32.82
+financial services,total,2017,M03,3/1/17,8409,37.4,32.75
+financial services,total,2017,M04,4/1/17,8425,37.4,32.87
+financial services,total,2017,M05,5/1/17,8435,37.4,32.87
+financial services,total,2017,M06,6/1/17,8450,37.6,33.05
+financial services,total,2017,M07,7/1/17,8463,37.5,33.21
+financial services,total,2017,M08,8/1/17,8472,37.5,33.35
+financial services,total,2017,M09,9/1/17,8481,37.5,33.55
+financial services,total,2017,M10,10/1/17,8479,37.5,33.78
+financial services,total,2017,M11,11/1/17,8489,37.6,33.68
+financial services,total,2017,M12,12/1/17,8496,37.6,34.03
+financial services,total,2018,M01,1/1/18,8501,37.5,34.24
+financial services,total,2018,M02,2/1/18,8528,37.6,34.21
+financial services,total,2018,M03,3/1/18,8537,37.5,34.39
+financial services,total,2018,M04,4/1/18,8546,37.6,34.42
+financial services,total,2018,M05,5/1/18,8572,37.6,34.61
+financial services,total,2018,M06,6/1/18,8591,37.7,34.63
+financial services,total,2018,M07,7/1/18,8600,37.6,34.78
+financial services,total,2018,M08,8/1/18,8612,37.6,34.9
+financial services,total,2018,M09,9/1/18,8631,37.6,35.14
+financial services,total,2018,M10,10/1/18,8640,37.7,35.03
+financial services,total,2018,M11,11/1/18,8650,37.6,35.27
+financial services,total,2018,M12,12/1/18,8660,37.6,35.36
+financial services,total,2019,M01,1/1/19,8672,37.7,35.42
+financial services,total,2019,M02,2/1/19,8684,37.7,35.47
+financial services,total,2019,M03,3/1/19,8704,37.7,35.51
+financial services,total,2019,M04,4/1/19,8724,37.6,35.7
+financial services,total,2019,M05,5/1/19,8738,37.6,35.75
+financial services,total,2019,M06,6/1/19,8749,37.5,35.87
+financial services,total,2019,M07,7/1/19,8771,37.6,35.94
+financial services,total,2019,M08,8/1/19,8786,37.7,36.19
+financial services,total,2019,M09,9/1/19,8785,37.6,36.13
+financial services,total,2019,M10,10/1/19,8797,37.6,36.18
+financial services,total,2019,M11,11/1/19,8814,37.7,36.42
+financial services,total,2019,M12,12/1/19,8821,37.5,36.53
+financial services,total,2020,M01,1/1/20,8837,37.6,36.66
+financial services,total,2020,M02,2/1/20,8870,37.6,36.88
+financial services,total,2020,M03,3/1/20,8851,37.6,36.89
+financial services,total,2020,M04,4/1/20,8590,37.6,37.3
+financial services,total,2020,M05,5/1/20,8607,37.7,37.53
+financial services,total,2020,M06,6/1/20,8623,37.5,37.79
+financial services,total,2020,M07,7/1/20,8623,37.6,37.76
+financial services,total,2020,M08,8/1/20,8647,37.6,38.24
+financial services,total,2020,M09,9/1/20,8675,37.7,38.37
+financial services,total,2020,M10,10/1/20,8696,37.7,38.73
+financial services,total,2020,M11,11/1/20,8709,37.7,38.85
+financial services,total,2020,M12,12/1/20,8721,37.8,39.1
+financial services,total,2021,M01,1/1/21,8732,37.7,39.28
+financial services,total,2021,M02,2/1/21,8724,37.7,39.58
+financial services,total,2021,M03,3/1/21,8733,37.7,39.77
+financial services,total,2021,M04,4/1/21,8747,37.6,39.84
+financial services,total,2021,M05,5/1/21,8747,37.6,40.05
+financial services,total,2021,M06,6/1/21,8745,37.6,40.1
+financial services,total,2021,M07,7/1/21,8772,37.6,40.22
+financial services,total,2021,M08,8/1/21,8781,37.5,40.11
+financial services,total,2021,M09,9/1/21,8794,37.6,40.3
+financial services,total,2021,M10,10/1/21,8817,37.5,40.55
+financial services,total,2021,M11,11/1/21,8849,37.4,40.7
+financial services,total,2021,M12,12/1/21,8863,37.5,40.65
+financial services,total,2022,M01,1/1/22,8865,37.4,40.88
+financial services,total,2022,M02,2/1/22,8894,37.6,40.73
+financial services,total,2022,M03,3/1/22,8905,37.7,40.99
+financial services,total,2022,M04,4/1/22,8940,37.6,41.05
+financial services,total,2022,M05,5/1/22,8948,37.5,40.96
+professional business services,total,2006,M03,3/1/06,17495,35.1,23.36
+professional business services,total,2006,M04,4/1/06,17515,35.2,23.51
+professional business services,total,2006,M05,5/1/06,17572,35.1,23.4
+professional business services,total,2006,M06,6/1/06,17642,35.5,23.48
+professional business services,total,2006,M07,7/1/06,17682,35.2,23.59
+professional business services,total,2006,M08,8/1/06,17728,35.1,23.69
+professional business services,total,2006,M09,9/1/06,17718,35.4,23.89
+professional business services,total,2006,M10,10/1/06,17722,35.2,23.89
+professional business services,total,2006,M11,11/1/06,17790,35.4,23.99
+professional business services,total,2006,M12,12/1/06,17823,35.4,24.15
+professional business services,total,2007,M01,1/1/07,17887,35.2,24.25
+professional business services,total,2007,M02,2/1/07,17918,35.5,24.31
+professional business services,total,2007,M03,3/1/07,17949,35.4,24.42
+professional business services,total,2007,M04,4/1/07,17966,35.4,24.48
+professional business services,total,2007,M05,5/1/07,17999,35.4,24.63
+professional business services,total,2007,M06,6/1/07,18011,35.5,24.78
+professional business services,total,2007,M07,7/1/07,18015,35.4,24.76
+professional business services,total,2007,M08,8/1/07,18025,35.4,24.82
+professional business services,total,2007,M09,9/1/07,18022,35.4,24.85
+professional business services,total,2007,M10,10/1/07,18058,35.4,24.92
+professional business services,total,2007,M11,11/1/07,18059,35.4,24.99
+professional business services,total,2007,M12,12/1/07,18104,35.3,25.03
+professional business services,total,2008,M01,1/1/08,18094,35.2,25.15
+professional business services,total,2008,M02,2/1/08,18046,35.2,25.23
+professional business services,total,2008,M03,3/1/08,18005,35.4,25.35
+professional business services,total,2008,M04,4/1/08,17996,35.2,25.49
+professional business services,total,2008,M05,5/1/08,17936,35.2,25.64
+professional business services,total,2008,M06,6/1/08,17896,35.3,25.71
+professional business services,total,2008,M07,7/1/08,17835,35.3,25.84
+professional business services,total,2008,M08,8/1/08,17771,35.3,26.03
+professional business services,total,2008,M09,9/1/08,17700,35.2,26.14
+professional business services,total,2008,M10,10/1/08,17590,35.4,26.32
+professional business services,total,2008,M11,11/1/08,17420,35.2,26.55
+professional business services,total,2008,M12,12/1/08,17287,34.9,26.67
+professional business services,total,2009,M01,1/1/09,17132,35.3,26.73
+professional business services,total,2009,M02,2/1/09,16936,35.1,26.83
+professional business services,total,2009,M03,3/1/09,16787,35.1,26.95
+professional business services,total,2009,M04,4/1/09,16652,35.1,27.05
+professional business services,total,2009,M05,5/1/09,16602,35.1,27.01
+professional business services,total,2009,M06,6/1/09,16497,35,27.06
+professional business services,total,2009,M07,7/1/09,16474,35,27.09
+professional business services,total,2009,M08,8/1/09,16465,35,27.06
+professional business services,total,2009,M09,9/1/09,16469,35,27.23
+professional business services,total,2009,M10,10/1/09,16488,35,27.14
+professional business services,total,2009,M11,11/1/09,16548,35.2,27.1
+professional business services,total,2009,M12,12/1/09,16551,35,27.13
+professional business services,total,2010,M01,1/1/10,16572,35.5,27.16
+professional business services,total,2010,M02,2/1/10,16591,35.1,27.24
+professional business services,total,2010,M03,3/1/10,16574,35.3,27.2
+professional business services,total,2010,M04,4/1/10,16666,35.3,27.19
+professional business services,total,2010,M05,5/1/10,16702,35.3,27.26
+professional business services,total,2010,M06,6/1/10,16764,35.3,27.28
+professional business services,total,2010,M07,7/1/10,16773,35.5,27.3
+professional business services,total,2010,M08,8/1/10,16833,35.4,27.4
+professional business services,total,2010,M09,9/1/10,16850,35.6,27.43
+professional business services,total,2010,M10,10/1/10,16917,35.8,27.47
+professional business services,total,2010,M11,11/1/10,17011,35.6,27.41
+professional business services,total,2010,M12,12/1/10,17080,35.6,27.34
+professional business services,total,2011,M01,1/1/11,17091,35.6,27.51
+professional business services,total,2011,M02,2/1/11,17170,35.7,27.56
+professional business services,total,2011,M03,3/1/11,17235,35.6,27.55
+professional business services,total,2011,M04,4/1/11,17297,35.7,27.64
+professional business services,total,2011,M05,5/1/11,17348,35.7,27.67
+professional business services,total,2011,M06,6/1/11,17363,35.7,27.78
+professional business services,total,2011,M07,7/1/11,17371,35.8,27.98
+professional business services,total,2011,M08,8/1/11,17446,35.7,27.88
+professional business services,total,2011,M09,9/1/11,17510,35.8,27.91
+professional business services,total,2011,M10,10/1/11,17556,35.8,27.98
+professional business services,total,2011,M11,11/1/11,17591,35.8,27.98
+professional business services,total,2011,M12,12/1/11,17658,35.7,27.92
+professional business services,total,2012,M01,1/1/12,17745,35.8,27.87
+professional business services,total,2012,M02,2/1/12,17816,35.9,27.92
+professional business services,total,2012,M03,3/1/12,17848,35.8,28.03
+professional business services,total,2012,M04,4/1/12,17897,35.9,27.99
+professional business services,total,2012,M05,5/1/12,17922,35.9,28.06
+professional business services,total,2012,M06,6/1/12,17977,35.9,28.09
+professional business services,total,2012,M07,7/1/12,18020,36,28.17
+professional business services,total,2012,M08,8/1/12,18052,36,28.09
+professional business services,total,2012,M09,9/1/12,18066,36.1,28.23
+professional business services,total,2012,M10,10/1/12,18139,35.9,28.2
+professional business services,total,2012,M11,11/1/12,18193,36,28.26
+professional business services,total,2012,M12,12/1/12,18230,36.1,28.36
+professional business services,total,2013,M01,1/1/13,18273,36.1,28.45
+professional business services,total,2013,M02,2/1/13,18367,36.1,28.43
+professional business services,total,2013,M03,3/1/13,18421,36.1,28.49
+professional business services,total,2013,M04,4/1/13,18483,36,28.52
+professional business services,total,2013,M05,5/1/13,18537,36.1,28.53
+professional business services,total,2013,M06,6/1/13,18582,36.1,28.57
+professional business services,total,2013,M07,7/1/13,18629,36,28.56
+professional business services,total,2013,M08,8/1/13,18655,36.1,28.64
+professional business services,total,2013,M09,9/1/13,18683,36.1,28.66
+professional business services,total,2013,M10,10/1/13,18732,36.1,28.7
+professional business services,total,2013,M11,11/1/13,18801,36.2,28.81
+professional business services,total,2013,M12,12/1/13,18790,36.1,28.87
+professional business services,total,2014,M01,1/1/14,18837,36.2,28.92
+professional business services,total,2014,M02,2/1/14,18899,36.1,29.08
+professional business services,total,2014,M03,3/1/14,18944,36.3,29.06
+professional business services,total,2014,M04,4/1/14,19002,36.3,29.12
+professional business services,total,2014,M05,5/1/14,19044,36.3,29.23
+professional business services,total,2014,M06,6/1/14,19105,36.3,29.27
+professional business services,total,2014,M07,7/1/14,19142,36.2,29.34
+professional business services,total,2014,M08,8/1/14,19201,36.2,29.45
+professional business services,total,2014,M09,9/1/14,19257,36.2,29.42
+professional business services,total,2014,M10,10/1/14,19285,36.3,29.47
+professional business services,total,2014,M11,11/1/14,19339,36.3,29.56
+professional business services,total,2014,M12,12/1/14,19418,36.3,29.61
+professional business services,total,2015,M01,1/1/15,19442,36.2,29.74
+professional business services,total,2015,M02,2/1/15,19487,36.2,29.77
+professional business services,total,2015,M03,3/1/15,19513,36.1,29.88
+professional business services,total,2015,M04,4/1/15,19557,36.1,29.98
+professional business services,total,2015,M05,5/1/15,19638,36.2,30.04
+professional business services,total,2015,M06,6/1/15,19689,36.2,30.07
+professional business services,total,2015,M07,7/1/15,19726,36.2,30.1
+professional business services,total,2015,M08,8/1/15,19755,36.2,30.18
+professional business services,total,2015,M09,9/1/15,19778,36.1,30.28
+professional business services,total,2015,M10,10/1/15,19851,36.3,30.33
+professional business services,total,2015,M11,11/1/15,19885,36.1,30.39
+professional business services,total,2015,M12,12/1/15,19955,36.2,30.35
+professional business services,total,2016,M01,1/1/16,19965,36.3,30.54
+professional business services,total,2016,M02,2/1/16,19977,36.1,30.57
+professional business services,total,2016,M03,3/1/16,19999,36,30.56
+professional business services,total,2016,M04,4/1/16,20031,36.2,30.69
+professional business services,total,2016,M05,5/1/16,20035,36,30.8
+professional business services,total,2016,M06,6/1/16,20080,36,30.88
+professional business services,total,2016,M07,7/1/16,20126,36.2,30.93
+professional business services,total,2016,M08,8/1/16,20127,36,30.92
+professional business services,total,2016,M09,9/1/16,20194,36.1,30.99
+professional business services,total,2016,M10,10/1/16,20217,36.1,31.09
+professional business services,total,2016,M11,11/1/16,20255,36.1,31.14
+professional business services,total,2016,M12,12/1/16,20287,36,31.21
+professional business services,total,2017,M01,1/1/17,20328,36.1,31.29
+professional business services,total,2017,M02,2/1/17,20346,36.1,31.4
+professional business services,total,2017,M03,3/1/17,20375,35.9,31.53
+professional business services,total,2017,M04,4/1/17,20407,36.1,31.58
+professional business services,total,2017,M05,5/1/17,20469,36.1,31.52
+professional business services,total,2017,M06,6/1/17,20504,36.1,31.53
+professional business services,total,2017,M07,7/1/17,20545,36,31.6
+professional business services,total,2017,M08,8/1/17,20584,36,31.65
+professional business services,total,2017,M09,9/1/17,20579,36,31.85
+professional business services,total,2017,M10,10/1/17,20619,36,31.81
+professional business services,total,2017,M11,11/1/17,20635,36.2,31.9
+professional business services,total,2017,M12,12/1/17,20673,36,32.04
+professional business services,total,2018,M01,1/1/18,20721,35.9,32.16
+professional business services,total,2018,M02,2/1/18,20771,36.2,32.15
+professional business services,total,2018,M03,3/1/18,20819,36.1,32.28
+professional business services,total,2018,M04,4/1/18,20869,36.1,32.29
+professional business services,total,2018,M05,5/1/18,20924,36.1,32.4
+professional business services,total,2018,M06,6/1/18,20963,36.2,32.47
+professional business services,total,2018,M07,7/1/18,20980,36.2,32.56
+professional business services,total,2018,M08,8/1/18,21016,36.1,32.75
+professional business services,total,2018,M09,9/1/18,21047,36.1,32.82
+professional business services,total,2018,M10,10/1/18,21073,36.2,32.86
+professional business services,total,2018,M11,11/1/18,21089,36.1,32.95
+professional business services,total,2018,M12,12/1/18,21118,36.2,33.03
+professional business services,total,2019,M01,1/1/19,21098,36.3,33.12
+professional business services,total,2019,M02,2/1/19,21140,36.2,33.27
+professional business services,total,2019,M03,3/1/19,21168,36.2,33.41
+professional business services,total,2019,M04,4/1/19,21215,36.2,33.46
+professional business services,total,2019,M05,5/1/19,21247,36.2,33.52
+professional business services,total,2019,M06,6/1/19,21294,36.2,33.6
+professional business services,total,2019,M07,7/1/19,21318,36.1,33.73
+professional business services,total,2019,M08,8/1/19,21337,36.2,33.81
+professional business services,total,2019,M09,9/1/19,21350,36.1,33.93
+professional business services,total,2019,M10,10/1/19,21360,36.1,34.05
+professional business services,total,2019,M11,11/1/19,21393,36.1,34.21
+professional business services,total,2019,M12,12/1/19,21396,36.1,34.23
+professional business services,total,2020,M01,1/1/20,21371,36.1,34.35
+professional business services,total,2020,M02,2/1/20,21393,36.3,34.47
+professional business services,total,2020,M03,3/1/20,21308,36.1,34.55
+professional business services,total,2020,M04,4/1/20,19091,35.9,35.83
+professional business services,total,2020,M05,5/1/20,19294,36.4,35.49
+professional business services,total,2020,M06,6/1/20,19651,36.4,35.15
+professional business services,total,2020,M07,7/1/20,19836,36.4,35.07
+professional business services,total,2020,M08,8/1/20,20026,36.5,35.19
+professional business services,total,2020,M09,9/1/20,20154,36.5,35.31
+professional business services,total,2020,M10,10/1/20,20374,36.7,35.29
+professional business services,total,2020,M11,11/1/20,20525,36.6,35.33
+professional business services,total,2020,M12,12/1/20,20689,36.7,35.51
+professional business services,total,2021,M01,1/1/21,20800,36.9,35.59
+professional business services,total,2021,M02,2/1/21,20902,36.5,35.77
+professional business services,total,2021,M03,3/1/21,21021,36.7,35.8
+professional business services,total,2021,M04,4/1/21,20943,36.7,36.08
+professional business services,total,2021,M05,5/1/21,21023,36.6,36.27
+professional business services,total,2021,M06,6/1/21,21084,36.6,36.5
+professional business services,total,2021,M07,7/1/21,21226,36.7,36.71
+professional business services,total,2021,M08,8/1/21,21309,36.5,36.87
+professional business services,total,2021,M09,9/1/21,21383,36.7,37.01
+professional business services,total,2021,M10,10/1/21,21619,36.7,37.29
+professional business services,total,2021,M11,11/1/21,21730,36.7,37.48
+professional business services,total,2021,M12,12/1/21,21821,36.7,37.68
+professional business services,total,2022,M01,1/1/22,21909,36.7,37.92
+professional business services,total,2022,M02,2/1/22,21996,36.8,38.01
+professional business services,total,2022,M03,3/1/22,22090,36.7,38.31
+professional business services,total,2022,M04,4/1/22,22139,36.7,38.55
+professional business services,total,2022,M05,5/1/22,22214,36.6,38.65
+education and healthcare,total,2006,M03,3/1/06,18045,32.6,20.02
+education and healthcare,total,2006,M04,4/1/06,18070,32.6,20.09
+education and healthcare,total,2006,M05,5/1/06,18100,32.6,20.13
+education and healthcare,total,2006,M06,6/1/06,18102,32.7,20.19
+education and healthcare,total,2006,M07,7/1/06,18128,32.6,20.25
+education and healthcare,total,2006,M08,8/1/06,18182,32.6,20.3
+education and healthcare,total,2006,M09,9/1/06,18248,32.7,20.32
+education and healthcare,total,2006,M10,10/1/06,18288,32.6,20.34
+education and healthcare,total,2006,M11,11/1/06,18337,32.7,20.37
+education and healthcare,total,2006,M12,12/1/06,18378,32.7,20.39
+education and healthcare,total,2007,M01,1/1/07,18415,32.7,20.46
+education and healthcare,total,2007,M02,2/1/07,18451,32.6,20.55
+education and healthcare,total,2007,M03,3/1/07,18507,32.8,20.61
+education and healthcare,total,2007,M04,4/1/07,18563,32.7,20.64
+education and healthcare,total,2007,M05,5/1/07,18608,32.8,20.67
+education and healthcare,total,2007,M06,6/1/07,18661,32.8,20.78
+education and healthcare,total,2007,M07,7/1/07,18691,32.8,20.83
+education and healthcare,total,2007,M08,8/1/07,18755,32.8,20.86
+education and healthcare,total,2007,M09,9/1/07,18812,32.8,20.96
+education and healthcare,total,2007,M10,10/1/07,18849,32.8,20.96
+education and healthcare,total,2007,M11,11/1/07,18875,32.8,21.04
+education and healthcare,total,2007,M12,12/1/07,18924,32.9,21.1
+education and healthcare,total,2008,M01,1/1/08,18978,32.9,21.17
+education and healthcare,total,2008,M02,2/1/08,19018,32.9,21.21
+education and healthcare,total,2008,M03,3/1/08,19068,33,21.37
+education and healthcare,total,2008,M04,4/1/08,19126,32.9,21.32
+education and healthcare,total,2008,M05,5/1/08,19166,33.1,21.42
+education and healthcare,total,2008,M06,6/1/08,19224,33,21.45
+education and healthcare,total,2008,M07,7/1/08,19275,33,21.5
+education and healthcare,total,2008,M08,8/1/08,19337,33,21.59
+education and healthcare,total,2008,M09,9/1/08,19343,33,21.66
+education and healthcare,total,2008,M10,10/1/08,19363,33,21.64
+education and healthcare,total,2008,M11,11/1/08,19401,32.9,21.78
+education and healthcare,total,2008,M12,12/1/08,19442,32.9,21.84
+education and healthcare,total,2009,M01,1/1/09,19482,32.8,21.87
+education and healthcare,total,2009,M02,2/1/09,19507,32.9,21.89
+education and healthcare,total,2009,M03,3/1/09,19514,32.8,21.97
+education and healthcare,total,2009,M04,4/1/09,19521,32.7,22.02
+education and healthcare,total,2009,M05,5/1/09,19582,32.7,22.04
+education and healthcare,total,2009,M06,6/1/09,19614,32.6,22.12
+education and healthcare,total,2009,M07,7/1/09,19629,32.7,22.15
+education and healthcare,total,2009,M08,8/1/09,19681,32.7,22.19
+education and healthcare,total,2009,M09,9/1/09,19692,32.7,22.19
+education and healthcare,total,2009,M10,10/1/09,19736,32.7,22.32
+education and healthcare,total,2009,M11,11/1/09,19770,32.7,22.37
+education and healthcare,total,2009,M12,12/1/09,19804,32.8,22.36
+education and healthcare,total,2010,M01,1/1/10,19820,32.8,22.42
+education and healthcare,total,2010,M02,2/1/10,19839,32.7,22.49
+education and healthcare,total,2010,M03,3/1/10,19896,32.7,22.51
+education and healthcare,total,2010,M04,4/1/10,19902,32.7,22.65
+education and healthcare,total,2010,M05,5/1/10,19934,32.6,22.71
+education and healthcare,total,2010,M06,6/1/10,19955,32.7,22.72
+education and healthcare,total,2010,M07,7/1/10,19980,32.6,22.81
+education and healthcare,total,2010,M08,8/1/10,20017,32.7,22.89
+education and healthcare,total,2010,M09,9/1/10,20001,32.8,22.9
+education and healthcare,total,2010,M10,10/1/10,20074,32.8,23
+education and healthcare,total,2010,M11,11/1/10,20119,32.7,23.03
+education and healthcare,total,2010,M12,12/1/10,20134,32.7,23.14
+education and healthcare,total,2011,M01,1/1/11,20153,32.7,23.15
+education and healthcare,total,2011,M02,2/1/11,20163,32.7,23.23
+education and healthcare,total,2011,M03,3/1/11,20177,32.8,23.22
+education and healthcare,total,2011,M04,4/1/11,20237,32.8,23.27
+education and healthcare,total,2011,M05,5/1/11,20252,32.8,23.41
+education and healthcare,total,2011,M06,6/1/11,20288,32.8,23.39
+education and healthcare,total,2011,M07,7/1/11,20327,32.8,23.54
+education and healthcare,total,2011,M08,8/1/11,20367,32.7,23.5
+education and healthcare,total,2011,M09,9/1/11,20415,32.7,23.57
+education and healthcare,total,2011,M10,10/1/11,20457,32.7,23.66
+education and healthcare,total,2011,M11,11/1/11,20496,32.7,23.61
+education and healthcare,total,2011,M12,12/1/11,20530,32.8,23.68
+education and healthcare,total,2012,M01,1/1/12,20574,32.8,23.82
+education and healthcare,total,2012,M02,2/1/12,20657,32.8,23.8
+education and healthcare,total,2012,M03,3/1/12,20689,32.8,23.96
+education and healthcare,total,2012,M04,4/1/12,20707,32.8,23.94
+education and healthcare,total,2012,M05,5/1/12,20747,32.7,23.87
+education and healthcare,total,2012,M06,6/1/12,20738,32.8,24
+education and healthcare,total,2012,M07,7/1/12,20773,32.7,24.01
+education and healthcare,total,2012,M08,8/1/12,20801,32.8,24
+education and healthcare,total,2012,M09,9/1/12,20841,32.7,24.11
+education and healthcare,total,2012,M10,10/1/12,20881,32.8,24.07
+education and healthcare,total,2012,M11,11/1/12,20887,32.7,24.18
+education and healthcare,total,2012,M12,12/1/12,20935,32.8,24.26
+education and healthcare,total,2013,M01,1/1/13,20956,32.8,24.24
+education and healthcare,total,2013,M02,2/1/13,20958,32.8,24.26
+education and healthcare,total,2013,M03,3/1/13,21007,32.8,24.3
+education and healthcare,total,2013,M04,4/1/13,21054,32.7,24.34
+education and healthcare,total,2013,M05,5/1/13,21071,32.7,24.35
+education and healthcare,total,2013,M06,6/1/13,21070,32.8,24.44
+education and healthcare,total,2013,M07,7/1/13,21074,32.6,24.46
+education and healthcare,total,2013,M08,8/1/13,21143,32.7,24.5
+education and healthcare,total,2013,M09,9/1/13,21133,32.7,24.51
+education and healthcare,total,2013,M10,10/1/13,21158,32.7,24.53
+education and healthcare,total,2013,M11,11/1/13,21194,32.7,24.57
+education and healthcare,total,2013,M12,12/1/13,21196,32.6,24.54
+education and healthcare,total,2014,M01,1/1/14,21228,32.7,24.58
+education and healthcare,total,2014,M02,2/1/14,21251,32.6,24.6
+education and healthcare,total,2014,M03,3/1/14,21294,32.7,24.59
+education and healthcare,total,2014,M04,4/1/14,21321,32.7,24.6
+education and healthcare,total,2014,M05,5/1/14,21364,32.7,24.65
+education and healthcare,total,2014,M06,6/1/14,21410,32.7,24.67
+education and healthcare,total,2014,M07,7/1/14,21453,32.6,24.72
+education and healthcare,total,2014,M08,8/1/14,21491,32.8,24.79
+education and healthcare,total,2014,M09,9/1/14,21543,32.7,24.8
+education and healthcare,total,2014,M10,10/1/14,21573,32.8,24.83
+education and healthcare,total,2014,M11,11/1/14,21626,32.8,24.89
+education and healthcare,total,2014,M12,12/1/14,21678,32.8,24.93
+education and healthcare,total,2015,M01,1/1/15,21741,32.8,24.99
+education and healthcare,total,2015,M02,2/1/15,21789,32.8,25.02
+education and healthcare,total,2015,M03,3/1/15,21832,32.8,25.12
+education and healthcare,total,2015,M04,4/1/15,21906,32.8,25.11
+education and healthcare,total,2015,M05,5/1/15,21958,32.8,25.22
+education and healthcare,total,2015,M06,6/1/15,21998,32.8,25.24
+education and healthcare,total,2015,M07,7/1/15,22053,32.8,25.21
+education and healthcare,total,2015,M08,8/1/15,22094,32.8,25.29
+education and healthcare,total,2015,M09,9/1/15,22131,32.8,25.33
+education and healthcare,total,2015,M10,10/1/15,22215,32.8,25.41
+education and healthcare,total,2015,M11,11/1/15,22260,32.8,25.44
+education and healthcare,total,2015,M12,12/1/15,22323,32.8,25.49
+education and healthcare,total,2016,M01,1/1/16,22335,32.9,25.55
+education and healthcare,total,2016,M02,2/1/16,22403,32.8,25.58
+education and healthcare,total,2016,M03,3/1/16,22450,32.8,25.6
+education and healthcare,total,2016,M04,4/1/16,22505,32.8,25.68
+education and healthcare,total,2016,M05,5/1/16,22565,32.8,25.64
+education and healthcare,total,2016,M06,6/1/16,22618,32.9,25.69
+education and healthcare,total,2016,M07,7/1/16,22666,32.9,25.72
+education and healthcare,total,2016,M08,8/1/16,22719,32.9,25.71
+education and healthcare,total,2016,M09,9/1/16,22775,32.9,25.82
+education and healthcare,total,2016,M10,10/1/16,22835,32.9,25.89
+education and healthcare,total,2016,M11,11/1/16,22870,32.9,25.93
+education and healthcare,total,2016,M12,12/1/16,22929,32.9,25.98
+education and healthcare,total,2017,M01,1/1/17,22946,32.9,25.99
+education and healthcare,total,2017,M02,2/1/17,23016,32.9,26.09
+education and healthcare,total,2017,M03,3/1/17,23051,32.9,26.11
+education and healthcare,total,2017,M04,4/1/17,23103,32.8,26.2
+education and healthcare,total,2017,M05,5/1/17,23147,32.8,26.24
+education and healthcare,total,2017,M06,6/1/17,23167,32.9,26.27
+education and healthcare,total,2017,M07,7/1/17,23232,32.9,26.38
+education and healthcare,total,2017,M08,8/1/17,23255,32.9,26.41
+education and healthcare,total,2017,M09,9/1/17,23287,32.8,26.5
+education and healthcare,total,2017,M10,10/1/17,23309,32.9,26.45
+education and healthcare,total,2017,M11,11/1/17,23352,32.9,26.52
+education and healthcare,total,2017,M12,12/1/17,23384,32.9,26.58
+education and healthcare,total,2018,M01,1/1/18,23442,32.9,26.67
+education and healthcare,total,2018,M02,2/1/18,23500,33,26.7
+education and healthcare,total,2018,M03,3/1/18,23530,32.9,26.86
+education and healthcare,total,2018,M04,4/1/18,23547,32.9,26.83
+education and healthcare,total,2018,M05,5/1/18,23590,32.9,26.93
+education and healthcare,total,2018,M06,6/1/18,23617,33,27.03
+education and healthcare,total,2018,M07,7/1/18,23644,32.9,27.04
+education and healthcare,total,2018,M08,8/1/18,23693,33,27.13
+education and healthcare,total,2018,M09,9/1/18,23707,32.9,27.15
+education and healthcare,total,2018,M10,10/1/18,23751,32.9,27.18
+education and healthcare,total,2018,M11,11/1/18,23768,32.9,27.22
+education and healthcare,total,2018,M12,12/1/18,23854,33,27.3
+education and healthcare,total,2019,M01,1/1/19,23906,33,27.42
+education and healthcare,total,2019,M02,2/1/19,23936,33,27.48
+education and healthcare,total,2019,M03,3/1/19,23996,33,27.58
+education and healthcare,total,2019,M04,4/1/19,24058,33,27.43
+education and healthcare,total,2019,M05,5/1/19,24082,33,27.39
+education and healthcare,total,2019,M06,6/1/19,24128,33,27.55
+education and healthcare,total,2019,M07,7/1/19,24177,33,27.66
+education and healthcare,total,2019,M08,8/1/19,24234,33,27.71
+education and healthcare,total,2019,M09,9/1/19,24279,32.9,27.72
+education and healthcare,total,2019,M10,10/1/19,24312,33,27.82
+education and healthcare,total,2019,M11,11/1/19,24390,33,27.87
+education and healthcare,total,2019,M12,12/1/19,24437,33,27.83
+education and healthcare,total,2020,M01,1/1/20,24531,33,27.85
+education and healthcare,total,2020,M02,2/1/20,24598,33.1,27.95
+education and healthcare,total,2020,M03,3/1/20,24360,33,28.13
+education and healthcare,total,2020,M04,4/1/20,21759,32.7,28.34
+education and healthcare,total,2020,M05,5/1/20,22149,32.9,28.48
+education and healthcare,total,2020,M06,6/1/20,22699,33.2,28.53
+education and healthcare,total,2020,M07,7/1/20,22889,33.4,28.59
+education and healthcare,total,2020,M08,8/1/20,23088,33.4,28.67
+education and healthcare,total,2020,M09,9/1/20,23184,33.4,28.7
+education and healthcare,total,2020,M10,10/1/20,23277,33.5,28.74
+education and healthcare,total,2020,M11,11/1/20,23346,33.4,28.94
+education and healthcare,total,2020,M12,12/1/20,23350,33.5,29.32
+education and healthcare,total,2021,M01,1/1/21,23378,33.7,29.31
+education and healthcare,total,2021,M02,2/1/21,23454,33.3,29.4
+education and healthcare,total,2021,M03,3/1/21,23541,33.5,29.46
+education and healthcare,total,2021,M04,4/1/21,23582,33.3,29.65
+education and healthcare,total,2021,M05,5/1/21,23620,33.4,29.74
+education and healthcare,total,2021,M06,6/1/21,23640,33.4,29.9
+education and healthcare,total,2021,M07,7/1/21,23699,33.4,30.09
+education and healthcare,total,2021,M08,8/1/21,23728,33.4,30.25
+education and healthcare,total,2021,M09,9/1/21,23737,33.3,30.55
+education and healthcare,total,2021,M10,10/1/21,23805,33.4,30.71
+education and healthcare,total,2021,M11,11/1/21,23874,33.4,30.88
+education and healthcare,total,2021,M12,12/1/21,23939,33.4,31.01
+education and healthcare,total,2022,M01,1/1/22,23972,33.4,31.22
+education and healthcare,total,2022,M02,2/1/22,24073,33.5,31.27
+education and healthcare,total,2022,M03,3/1/22,24124,33.5,31.27
+education and healthcare,total,2022,M04,4/1/22,24184,33.5,31.35
+education and healthcare,total,2022,M05,5/1/22,24258,33.5,31.44
+leisure and hospitality,total,2006,M03,3/1/06,13034,26.2,11.49
+leisure and hospitality,total,2006,M04,4/1/06,13074,26.2,11.56
+leisure and hospitality,total,2006,M05,5/1/06,13052,26.2,11.64
+leisure and hospitality,total,2006,M06,6/1/06,13061,26.2,11.7
+leisure and hospitality,total,2006,M07,7/1/06,13130,26.3,11.75
+leisure and hospitality,total,2006,M08,8/1/06,13152,26.2,11.78
+leisure and hospitality,total,2006,M09,9/1/06,13150,26.2,11.84
+leisure and hospitality,total,2006,M10,10/1/06,13187,26.2,11.93
+leisure and hospitality,total,2006,M11,11/1/06,13251,26.2,11.97
+leisure and hospitality,total,2006,M12,12/1/06,13292,26.4,12
+leisure and hospitality,total,2007,M01,1/1/07,13338,26.2,12.07
+leisure and hospitality,total,2007,M02,2/1/07,13361,26,12.14
+leisure and hospitality,total,2007,M03,3/1/07,13363,26.1,12.18
+leisure and hospitality,total,2007,M04,4/1/07,13375,26.1,12.27
+leisure and hospitality,total,2007,M05,5/1/07,13404,26.1,12.34
+leisure and hospitality,total,2007,M06,6/1/07,13413,26.1,12.42
+leisure and hospitality,total,2007,M07,7/1/07,13417,26.1,12.51
+leisure and hospitality,total,2007,M08,8/1/07,13419,26,12.49
+leisure and hospitality,total,2007,M09,9/1/07,13461,26,12.5
+leisure and hospitality,total,2007,M10,10/1/07,13499,26,12.53
+leisure and hospitality,total,2007,M11,11/1/07,13535,26,12.57
+leisure and hospitality,total,2007,M12,12/1/07,13550,26,12.72
+leisure and hospitality,total,2008,M01,1/1/08,13542,26,12.62
+leisure and hospitality,total,2008,M02,2/1/08,13543,25.9,12.69
+leisure and hospitality,total,2008,M03,3/1/08,13531,25.9,12.74
+leisure and hospitality,total,2008,M04,4/1/08,13511,25.9,12.76
+leisure and hospitality,total,2008,M05,5/1/08,13498,26,12.77
+leisure and hospitality,total,2008,M06,6/1/08,13482,25.9,12.79
+leisure and hospitality,total,2008,M07,7/1/08,13463,25.8,12.79
+leisure and hospitality,total,2008,M08,8/1/08,13431,25.8,12.83
+leisure and hospitality,total,2008,M09,9/1/08,13379,25.8,12.84
+leisure and hospitality,total,2008,M10,10/1/08,13352,25.9,12.8
+leisure and hospitality,total,2008,M11,11/1/08,13300,25.7,12.82
+leisure and hospitality,total,2008,M12,12/1/08,13256,25.6,12.84
+leisure and hospitality,total,2009,M01,1/1/09,13222,25.6,12.86
+leisure and hospitality,total,2009,M02,2/1/09,13193,26,12.86
+leisure and hospitality,total,2009,M03,3/1/09,13127,25.5,12.88
+leisure and hospitality,total,2009,M04,4/1/09,13056,25.4,12.89
+leisure and hospitality,total,2009,M05,5/1/09,13106,25.5,12.86
+leisure and hospitality,total,2009,M06,6/1/09,13076,25.5,12.92
+leisure and hospitality,total,2009,M07,7/1/09,13078,25.5,12.97
+leisure and hospitality,total,2009,M08,8/1/09,13046,25.6,13
+leisure and hospitality,total,2009,M09,9/1/09,13054,25.6,13.04
+leisure and hospitality,total,2009,M10,10/1/09,12995,25.5,13.09
+leisure and hospitality,total,2009,M11,11/1/09,12986,25.6,13.16
+leisure and hospitality,total,2009,M12,12/1/09,12944,25.6,13.14
+leisure and hospitality,total,2010,M01,1/1/10,12932,25.6,13.13
+leisure and hospitality,total,2010,M02,2/1/10,12927,25.7,13.09
+leisure and hospitality,total,2010,M03,3/1/10,12943,25.7,13.09
+leisure and hospitality,total,2010,M04,4/1/10,12979,25.7,13.06
+leisure and hospitality,total,2010,M05,5/1/10,13012,25.8,13.08
+leisure and hospitality,total,2010,M06,6/1/10,13034,25.7,13.07
+leisure and hospitality,total,2010,M07,7/1/10,13048,25.8,13.08
+leisure and hospitality,total,2010,M08,8/1/10,13081,25.9,13.09
+leisure and hospitality,total,2010,M09,9/1/10,13137,25.8,13.09
+leisure and hospitality,total,2010,M10,10/1/10,13127,25.9,13.1
+leisure and hospitality,total,2010,M11,11/1/10,13126,25.9,13.09
+leisure and hospitality,total,2010,M12,12/1/10,13157,25.8,13.1
+leisure and hospitality,total,2011,M01,1/1/11,13149,25.8,13.18
+leisure and hospitality,total,2011,M02,2/1/11,13188,25.9,13.16
+leisure and hospitality,total,2011,M03,3/1/11,13247,25.8,13.18
+leisure and hospitality,total,2011,M04,4/1/11,13298,26,13.2
+leisure and hospitality,total,2011,M05,5/1/11,13293,25.8,13.25
+leisure and hospitality,total,2011,M06,6/1/11,13343,25.8,13.22
+leisure and hospitality,total,2011,M07,7/1/11,13370,26,13.22
+leisure and hospitality,total,2011,M08,8/1/11,13395,25.9,13.2
+leisure and hospitality,total,2011,M09,9/1/11,13426,25.9,13.26
+leisure and hospitality,total,2011,M10,10/1/11,13464,26.1,13.3
+leisure and hospitality,total,2011,M11,11/1/11,13511,26.1,13.31
+leisure and hospitality,total,2011,M12,12/1/11,13538,26.1,13.33
+leisure and hospitality,total,2012,M01,1/1/12,13600,26.2,13.34
+leisure and hospitality,total,2012,M02,2/1/12,13641,26,13.34
+leisure and hospitality,total,2012,M03,3/1/12,13706,26.1,13.35
+leisure and hospitality,total,2012,M04,4/1/12,13709,26.1,13.37
+leisure and hospitality,total,2012,M05,5/1/12,13705,26,13.33
+leisure and hospitality,total,2012,M06,6/1/12,13702,26.1,13.39
+leisure and hospitality,total,2012,M07,7/1/12,13735,26.1,13.4
+leisure and hospitality,total,2012,M08,8/1/12,13804,26,13.38
+leisure and hospitality,total,2012,M09,9/1/12,13872,26.1,13.4
+leisure and hospitality,total,2012,M10,10/1/12,13883,26,13.37
+leisure and hospitality,total,2012,M11,11/1/12,13910,26,13.41
+leisure and hospitality,total,2012,M12,12/1/12,13978,26.1,13.39
+leisure and hospitality,total,2013,M01,1/1/13,14037,26,13.4
+leisure and hospitality,total,2013,M02,2/1/13,14082,26.1,13.41
+leisure and hospitality,total,2013,M03,3/1/13,14113,26.2,13.43
+leisure and hospitality,total,2013,M04,4/1/13,14152,26,13.44
+leisure and hospitality,total,2013,M05,5/1/13,14193,26,13.46
+leisure and hospitality,total,2013,M06,6/1/13,14252,26,13.47
+leisure and hospitality,total,2013,M07,7/1/13,14288,25.9,13.51
+leisure and hospitality,total,2013,M08,8/1/13,14327,26,13.53
+leisure and hospitality,total,2013,M09,9/1/13,14339,26,13.55
+leisure and hospitality,total,2013,M10,10/1/13,14395,26,13.57
+leisure and hospitality,total,2013,M11,11/1/13,14432,25.9,13.6
+leisure and hospitality,total,2013,M12,12/1/13,14454,25.8,13.66
+leisure and hospitality,total,2014,M01,1/1/14,14489,26,13.69
+leisure and hospitality,total,2014,M02,2/1/14,14509,25.8,13.73
+leisure and hospitality,total,2014,M03,3/1/14,14564,26.2,13.75
+leisure and hospitality,total,2014,M04,4/1/14,14614,26.2,13.76
+leisure and hospitality,total,2014,M05,5/1/14,14670,26.1,13.83
+leisure and hospitality,total,2014,M06,6/1/14,14693,26.1,13.9
+leisure and hospitality,total,2014,M07,7/1/14,14703,26.1,13.93
+leisure and hospitality,total,2014,M08,8/1/14,14725,26.3,13.98
+leisure and hospitality,total,2014,M09,9/1/14,14768,26.2,14.03
+leisure and hospitality,total,2014,M10,10/1/14,14811,26.2,14.08
+leisure and hospitality,total,2014,M11,11/1/14,14849,26.2,14.11
+leisure and hospitality,total,2014,M12,12/1/14,14892,26.3,14.13
+leisure and hospitality,total,2015,M01,1/1/15,14915,26.3,14.15
+leisure and hospitality,total,2015,M02,2/1/15,14972,26.3,14.17
+leisure and hospitality,total,2015,M03,3/1/15,14981,26.2,14.22
+leisure and hospitality,total,2015,M04,4/1/15,15023,26.2,14.26
+leisure and hospitality,total,2015,M05,5/1/15,15103,26.2,14.3
+leisure and hospitality,total,2015,M06,6/1/15,15108,26.3,14.3
+leisure and hospitality,total,2015,M07,7/1/15,15168,26.2,14.31
+leisure and hospitality,total,2015,M08,8/1/15,15201,26.2,14.34
+leisure and hospitality,total,2015,M09,9/1/15,15279,26.3,14.38
+leisure and hospitality,total,2015,M10,10/1/15,15316,26.3,14.43
+leisure and hospitality,total,2015,M11,11/1/15,15374,26.2,14.46
+leisure and hospitality,total,2015,M12,12/1/15,15406,26.3,14.52
+leisure and hospitality,total,2016,M01,1/1/16,15454,26.2,14.59
+leisure and hospitality,total,2016,M02,2/1/16,15494,26.2,14.63
+leisure and hospitality,total,2016,M03,3/1/16,15535,26.1,14.67
+leisure and hospitality,total,2016,M04,4/1/16,15562,26.1,14.74
+leisure and hospitality,total,2016,M05,5/1/16,15583,26.1,14.79
+leisure and hospitality,total,2016,M06,6/1/16,15639,26.1,14.86
+leisure and hospitality,total,2016,M07,7/1/16,15679,26.1,14.92
+leisure and hospitality,total,2016,M08,8/1/16,15725,26,14.98
+leisure and hospitality,total,2016,M09,9/1/16,15785,26.2,15.02
+leisure and hospitality,total,2016,M10,10/1/16,15780,26,15.08
+leisure and hospitality,total,2016,M11,11/1/16,15826,26.1,15.12
+leisure and hospitality,total,2016,M12,12/1/16,15845,25.9,15.16
+leisure and hospitality,total,2017,M01,1/1/17,15874,26,15.22
+leisure and hospitality,total,2017,M02,2/1/17,15917,25.9,15.28
+leisure and hospitality,total,2017,M03,3/1/17,15941,26,15.36
+leisure and hospitality,total,2017,M04,4/1/17,16006,26.2,15.4
+leisure and hospitality,total,2017,M05,5/1/17,16046,26,15.5
+leisure and hospitality,total,2017,M06,6/1/17,16087,26,15.47
+leisure and hospitality,total,2017,M07,7/1/17,16122,26,15.49
+leisure and hospitality,total,2017,M08,8/1/17,16150,26,15.54
+leisure and hospitality,total,2017,M09,9/1/17,16140,26,15.59
+leisure and hospitality,total,2017,M10,10/1/17,16133,26.1,15.57
+leisure and hospitality,total,2017,M11,11/1/17,16160,26.2,15.63
+leisure and hospitality,total,2017,M12,12/1/17,16183,26.1,15.71
+leisure and hospitality,total,2018,M01,1/1/18,16200,26,15.76
+leisure and hospitality,total,2018,M02,2/1/18,16234,26.1,15.74
+leisure and hospitality,total,2018,M03,3/1/18,16248,26.1,15.83
+leisure and hospitality,total,2018,M04,4/1/18,16251,26.1,15.88
+leisure and hospitality,total,2018,M05,5/1/18,16293,26.1,15.89
+leisure and hospitality,total,2018,M06,6/1/18,16329,26.1,15.96
+leisure and hospitality,total,2018,M07,7/1/18,16335,26,16.02
+leisure and hospitality,total,2018,M08,8/1/18,16337,26.1,16.05
+leisure and hospitality,total,2018,M09,9/1/18,16296,26,16.07
+leisure and hospitality,total,2018,M10,10/1/18,16316,26.1,16.14
+leisure and hospitality,total,2018,M11,11/1/18,16336,26,16.2
+leisure and hospitality,total,2018,M12,12/1/18,16398,26,16.28
+leisure and hospitality,total,2019,M01,1/1/19,16511,26.1,16.31
+leisure and hospitality,total,2019,M02,2/1/19,16507,26,16.38
+leisure and hospitality,total,2019,M03,3/1/19,16546,26,16.42
+leisure and hospitality,total,2019,M04,4/1/19,16565,25.9,16.44
+leisure and hospitality,total,2019,M05,5/1/19,16553,25.8,16.51
+leisure and hospitality,total,2019,M06,6/1/19,16529,25.9,16.58
+leisure and hospitality,total,2019,M07,7/1/19,16519,25.8,16.61
+leisure and hospitality,total,2019,M08,8/1/19,16558,25.9,16.6
+leisure and hospitality,total,2019,M09,9/1/19,16591,25.9,16.64
+leisure and hospitality,total,2019,M10,10/1/19,16647,25.9,16.67
+leisure and hospitality,total,2019,M11,11/1/19,16699,25.9,16.76
+leisure and hospitality,total,2019,M12,12/1/19,16771,25.8,16.8
+leisure and hospitality,total,2020,M01,1/1/20,16881,25.9,16.87
+leisure and hospitality,total,2020,M02,2/1/20,16983,25.8,16.89
+leisure and hospitality,total,2020,M03,3/1/20,16245,24,16.89
+leisure and hospitality,total,2020,M04,4/1/20,8780,24.2,17.98
+leisure and hospitality,total,2020,M05,5/1/20,10011,25.9,17.44
+leisure and hospitality,total,2020,M06,6/1/20,11791,25.6,17.08
+leisure and hospitality,total,2020,M07,7/1/20,12232,25.4,16.94
+leisure and hospitality,total,2020,M08,8/1/20,12513,25.9,16.96
+leisure and hospitality,total,2020,M09,9/1/20,12946,26.1,17.01
+leisure and hospitality,total,2020,M10,10/1/20,13179,26.1,17.04
+leisure and hospitality,total,2020,M11,11/1/20,13209,25.6,17.04
+leisure and hospitality,total,2020,M12,12/1/20,12749,25.2,17.12
+leisure and hospitality,total,2021,M01,1/1/21,12877,25.8,17.2
+leisure and hospitality,total,2021,M02,2/1/21,13270,25.3,17.4
+leisure and hospitality,total,2021,M03,3/1/21,13423,26.2,17.6
+leisure and hospitality,total,2021,M04,4/1/21,13631,26.6,17.8
+leisure and hospitality,total,2021,M05,5/1/21,13830,26.4,18.01
+leisure and hospitality,total,2021,M06,6/1/21,14054,26.4,18.47
+leisure and hospitality,total,2021,M07,7/1/21,14251,26.4,18.6
+leisure and hospitality,total,2021,M08,8/1/21,14453,26.3,18.7
+leisure and hospitality,total,2021,M09,9/1/21,14587,26.2,18.82
+leisure and hospitality,total,2021,M10,10/1/21,14728,26.3,19.19
+leisure and hospitality,total,2021,M11,11/1/21,14919,26.2,19.28
+leisure and hospitality,total,2021,M12,12/1/21,15105,26.1,19.4
+leisure and hospitality,total,2022,M01,1/1/22,15243,25.8,19.43
+leisure and hospitality,total,2022,M02,2/1/22,15367,25.9,19.43
+leisure and hospitality,total,2022,M03,3/1/22,15471,25.9,19.66
+leisure and hospitality,total,2022,M04,4/1/22,15554,26,19.76
+leisure and hospitality,total,2022,M05,5/1/22,15638,25.9,19.86
+other services,total,2006,M03,3/1/06,5425,31.8,17.46
+other services,total,2006,M04,4/1/06,5426,31.8,17.49
+other services,total,2006,M05,5/1/06,5433,31.8,17.6
+other services,total,2006,M06,6/1/06,5432,31.8,17.59
+other services,total,2006,M07,7/1/06,5429,31.7,17.58
+other services,total,2006,M08,8/1/06,5432,31.7,17.63
+other services,total,2006,M09,9/1/06,5448,31.7,17.73
+other services,total,2006,M10,10/1/06,5454,31.5,17.76
+other services,total,2006,M11,11/1/06,5455,31.6,17.82
+other services,total,2006,M12,12/1/06,5466,31.7,17.88
+other services,total,2007,M01,1/1/07,5467,31.6,17.93
+other services,total,2007,M02,2/1/07,5474,31.6,17.94
+other services,total,2007,M03,3/1/07,5484,31.6,18.02
+other services,total,2007,M04,4/1/07,5491,31.4,18.11
+other services,total,2007,M05,5/1/07,5496,31.6,18.13
+other services,total,2007,M06,6/1/07,5499,31.6,18.24
+other services,total,2007,M07,7/1/07,5500,31.5,18.34
+other services,total,2007,M08,8/1/07,5496,31.5,18.39
+other services,total,2007,M09,9/1/07,5492,31.6,18.4
+other services,total,2007,M10,10/1/07,5494,31.5,18.45
+other services,total,2007,M11,11/1/07,5505,31.6,18.47
+other services,total,2007,M12,12/1/07,5516,31.6,18.48
+other services,total,2008,M01,1/1/08,5522,31.6,18.54
+other services,total,2008,M02,2/1/08,5533,31.6,18.61
+other services,total,2008,M03,3/1/08,5539,31.6,18.69
+other services,total,2008,M04,4/1/08,5540,31.6,18.77
+other services,total,2008,M05,5/1/08,5536,31.6,18.83
+other services,total,2008,M06,6/1/08,5525,31.6,18.9
+other services,total,2008,M07,7/1/08,5521,31.5,19.03
+other services,total,2008,M08,8/1/08,5513,31.6,19.03
+other services,total,2008,M09,9/1/08,5512,31.6,19.08
+other services,total,2008,M10,10/1/08,5516,31.6,19.12
+other services,total,2008,M11,11/1/08,5476,31.6,19.19
+other services,total,2008,M12,12/1/08,5446,31.5,19.26
+other services,total,2009,M01,1/1/09,5428,31.6,19.42
+other services,total,2009,M02,2/1/09,5411,31.4,19.35
+other services,total,2009,M03,3/1/09,5383,31.3,19.47
+other services,total,2009,M04,4/1/09,5372,31.3,19.52
+other services,total,2009,M05,5/1/09,5369,31.5,19.59
+other services,total,2009,M06,6/1/09,5372,31.3,19.59
+other services,total,2009,M07,7/1/09,5368,31.4,19.65
+other services,total,2009,M08,8/1/09,5359,31.4,19.74
+other services,total,2009,M09,9/1/09,5353,31.4,19.84
+other services,total,2009,M10,10/1/09,5333,31.4,19.89
+other services,total,2009,M11,11/1/09,5324,31.5,19.96
+other services,total,2009,M12,12/1/09,5320,31.5,20.03
+other services,total,2010,M01,1/1/10,5323,31.9,20.04
+other services,total,2010,M02,2/1/10,5316,31.6,20.1
+other services,total,2010,M03,3/1/10,5329,31.5,20.12
+other services,total,2010,M04,4/1/10,5335,31.6,20.13
+other services,total,2010,M05,5/1/10,5330,31.6,20.14
+other services,total,2010,M06,6/1/10,5315,31.6,20.19
+other services,total,2010,M07,7/1/10,5326,31.7,20.13
+other services,total,2010,M08,8/1/10,5323,31.7,20.15
+other services,total,2010,M09,9/1/10,5332,31.9,20.17
+other services,total,2010,M10,10/1/10,5357,31.7,20.25
+other services,total,2010,M11,11/1/10,5346,31.7,20.38
+other services,total,2010,M12,12/1/10,5337,31.7,20.32
+other services,total,2011,M01,1/1/11,5327,31.7,20.4
+other services,total,2011,M02,2/1/11,5337,31.7,20.38
+other services,total,2011,M03,3/1/11,5333,31.7,20.33
+other services,total,2011,M04,4/1/11,5342,31.7,20.41
+other services,total,2011,M05,5/1/11,5346,31.7,20.46
+other services,total,2011,M06,6/1/11,5352,31.8,20.5
+other services,total,2011,M07,7/1/11,5359,31.8,20.56
+other services,total,2011,M08,8/1/11,5376,31.6,20.56
+other services,total,2011,M09,9/1/11,5381,31.7,20.57
+other services,total,2011,M10,10/1/11,5382,31.8,20.59
+other services,total,2011,M11,11/1/11,5390,31.7,20.61
+other services,total,2011,M12,12/1/11,5403,31.7,20.62
+other services,total,2012,M01,1/1/12,5414,31.7,20.62
+other services,total,2012,M02,2/1/12,5415,31.7,20.64
+other services,total,2012,M03,3/1/12,5422,31.7,20.7
+other services,total,2012,M04,4/1/12,5417,31.7,20.72
+other services,total,2012,M05,5/1/12,5417,31.5,20.79
+other services,total,2012,M06,6/1/12,5424,31.6,20.81
+other services,total,2012,M07,7/1/12,5433,31.5,20.86
+other services,total,2012,M08,8/1/12,5431,31.5,20.92
+other services,total,2012,M09,9/1/12,5442,31.6,20.96
+other services,total,2012,M10,10/1/12,5446,31.6,20.99
+other services,total,2012,M11,11/1/12,5449,31.5,21.01
+other services,total,2012,M12,12/1/12,5452,31.6,21.08
+other services,total,2013,M01,1/1/13,5458,31.5,21.11
+other services,total,2013,M02,2/1/13,5456,31.7,21.17
+other services,total,2013,M03,3/1/13,5451,31.9,21.2
+other services,total,2013,M04,4/1/13,5455,31.8,21.28
+other services,total,2013,M05,5/1/13,5470,31.8,21.33
+other services,total,2013,M06,6/1/13,5480,31.7,21.39
+other services,total,2013,M07,7/1/13,5483,31.7,21.43
+other services,total,2013,M08,8/1/13,5494,31.8,21.46
+other services,total,2013,M09,9/1/13,5502,31.7,21.54
+other services,total,2013,M10,10/1/13,5509,31.7,21.61
+other services,total,2013,M11,11/1/13,5513,31.9,21.64
+other services,total,2013,M12,12/1/13,5525,31.7,21.68
+other services,total,2014,M01,1/1/14,5533,31.7,21.75
+other services,total,2014,M02,2/1/14,5535,31.7,21.8
+other services,total,2014,M03,3/1/14,5553,31.9,21.73
+other services,total,2014,M04,4/1/14,5565,31.9,21.85
+other services,total,2014,M05,5/1/14,5566,31.8,21.87
+other services,total,2014,M06,6/1/14,5563,31.7,21.96
+other services,total,2014,M07,7/1/14,5565,31.7,22.01
+other services,total,2014,M08,8/1/14,5580,31.8,22.07
+other services,total,2014,M09,9/1/14,5575,31.8,22.08
+other services,total,2014,M10,10/1/14,5582,31.8,22.1
+other services,total,2014,M11,11/1/14,5590,31.8,22.17
+other services,total,2014,M12,12/1/14,5592,31.8,22.19
+other services,total,2015,M01,1/1/15,5600,31.9,22.18
+other services,total,2015,M02,2/1/15,5605,31.9,22.25
+other services,total,2015,M03,3/1/15,5607,31.8,22.35
+other services,total,2015,M04,4/1/15,5614,31.8,22.32
+other services,total,2015,M05,5/1/15,5623,31.8,22.42
+other services,total,2015,M06,6/1/15,5617,31.8,22.54
+other services,total,2015,M07,7/1/15,5629,31.8,22.48
+other services,total,2015,M08,8/1/15,5620,31.8,22.56
+other services,total,2015,M09,9/1/15,5621,31.8,22.6
+other services,total,2015,M10,10/1/15,5630,31.9,22.64
+other services,total,2015,M11,11/1/15,5638,31.9,22.66
+other services,total,2015,M12,12/1/15,5653,31.9,22.72
+other services,total,2016,M01,1/1/16,5649,32,22.78
+other services,total,2016,M02,2/1/16,5665,31.9,22.81
+other services,total,2016,M03,3/1/16,5673,31.9,22.86
+other services,total,2016,M04,4/1/16,5679,31.9,22.91
+other services,total,2016,M05,5/1/16,5670,31.9,22.97
+other services,total,2016,M06,6/1/16,5681,31.9,23.04
+other services,total,2016,M07,7/1/16,5689,32,23.1
+other services,total,2016,M08,8/1/16,5702,32,23.16
+other services,total,2016,M09,9/1/16,5713,31.9,23.16
+other services,total,2016,M10,10/1/16,5719,31.9,23.32
+other services,total,2016,M11,11/1/16,5729,31.9,23.33
+other services,total,2016,M12,12/1/16,5714,31.9,23.38
+other services,total,2017,M01,1/1/17,5731,31.7,23.68
+other services,total,2017,M02,2/1/17,5743,31.8,23.6
+other services,total,2017,M03,3/1/17,5749,31.8,23.55
+other services,total,2017,M04,4/1/17,5754,31.8,23.63
+other services,total,2017,M05,5/1/17,5766,31.8,23.66
+other services,total,2017,M06,6/1/17,5767,31.8,23.71
+other services,total,2017,M07,7/1/17,5773,31.7,23.84
+other services,total,2017,M08,8/1/17,5774,31.7,23.94
+other services,total,2017,M09,9/1/17,5778,31.7,24.09
+other services,total,2017,M10,10/1/17,5790,31.7,24.14
+other services,total,2017,M11,11/1/17,5802,31.7,24.22
+other services,total,2017,M12,12/1/17,5805,31.8,24.33
+other services,total,2018,M01,1/1/18,5812,31.6,24.25
+other services,total,2018,M02,2/1/18,5818,31.8,24.24
+other services,total,2018,M03,3/1/18,5821,31.7,24.35
+other services,total,2018,M04,4/1/18,5828,31.8,24.37
+other services,total,2018,M05,5/1/18,5843,31.7,24.43
+other services,total,2018,M06,6/1/18,5844,31.8,24.46
+other services,total,2018,M07,7/1/18,5825,31.8,24.54
+other services,total,2018,M08,8/1/18,5825,31.8,24.6
+other services,total,2018,M09,9/1/18,5832,31.9,24.72
+other services,total,2018,M10,10/1/18,5835,31.9,24.81
+other services,total,2018,M11,11/1/18,5835,31.9,24.85
+other services,total,2018,M12,12/1/18,5850,31.9,24.9
+other services,total,2019,M01,1/1/19,5856,31.9,25.01
+other services,total,2019,M02,2/1/19,5860,31.9,24.99
+other services,total,2019,M03,3/1/19,5883,31.9,24.98
+other services,total,2019,M04,4/1/19,5896,31.8,24.73
+other services,total,2019,M05,5/1/19,5894,31.8,25.03
+other services,total,2019,M06,6/1/19,5893,31.9,25.09
+other services,total,2019,M07,7/1/19,5895,31.9,25.18
+other services,total,2019,M08,8/1/19,5894,31.9,25.28
+other services,total,2019,M09,9/1/19,5894,31.8,25.34
+other services,total,2019,M10,10/1/19,5885,31.9,25.46
+other services,total,2019,M11,11/1/19,5906,31.9,25.53
+other services,total,2019,M12,12/1/19,5921,31.8,25.59
+other services,total,2020,M01,1/1/20,5940,31.9,25.57
+other services,total,2020,M02,2/1/20,5951,31.9,25.92
+other services,total,2020,M03,3/1/20,5860,31.3,26.12
+other services,total,2020,M04,4/1/20,4520,32.2,27.37
+other services,total,2020,M05,5/1/20,4756,32.7,27.33
+other services,total,2020,M06,6/1/20,5089,32.4,26.8
+other services,total,2020,M07,7/1/20,5225,32.1,26.71
+other services,total,2020,M08,8/1/20,5276,32.3,26.63
+other services,total,2020,M09,9/1/20,5323,32.4,26.67
+other services,total,2020,M10,10/1/20,5335,32.4,26.65
+other services,total,2020,M11,11/1/20,5330,32.4,26.84
+other services,total,2020,M12,12/1/20,5319,32.4,27.1
+other services,total,2021,M01,1/1/21,5328,32.6,26.9
+other services,total,2021,M02,2/1/21,5339,32.2,27.1
+other services,total,2021,M03,3/1/21,5356,32.6,27.22
+other services,total,2021,M04,4/1/21,5379,32.4,26.99
+other services,total,2021,M05,5/1/21,5395,32.5,27.3
+other services,total,2021,M06,6/1/21,5437,32.3,27.55
+other services,total,2021,M07,7/1/21,5473,32.3,27.71
+other services,total,2021,M08,8/1/21,5502,32.2,27.94
+other services,total,2021,M09,9/1/21,5519,32.3,28.03
+other services,total,2021,M10,10/1/21,5544,32.4,28.21
+other services,total,2021,M11,11/1/21,5580,32.3,28.29
+other services,total,2021,M12,12/1/21,5604,32.3,28.42
+other services,total,2022,M01,1/1/22,5610,32.2,28.37
+other services,total,2022,M02,2/1/22,5648,32.4,28.28
+other services,total,2022,M03,3/1/22,5663,32.3,28.11
+other services,total,2022,M04,4/1/22,5676,32.3,28.02
+other services,total,2022,M05,5/1/22,5692,32.3,28.16
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
