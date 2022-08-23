@@ -67,8 +67,8 @@ def view_page():
             level_select = st.multiselect("Level", static["ICLEVEL"].unique().tolist())
             control_select = st.multiselect("Control", static["CONTROL"].unique().tolist())
             category_select = st.multiselect("Category", static['INSTCAT'].unique().tolist())
-            enrtot_range = st.slider("Total Enrollment", recent_dynamic["ENRTOT"].min(), recent_dynamic["ENRTOT"].max(),
-                                     (recent_dynamic["ENRTOT"].min(), recent_dynamic["ENRTOT"].max()))
+            enrtot_range = st.slider("Total Enrollment", recent_dynamic["ENRTOT"].min().astype(int), recent_dynamic["ENRTOT"].max().astype(int),
+                                     (recent_dynamic["ENRTOT"].min().astype(int), recent_dynamic["ENRTOT"].max().astype(int)))
             submitted = st.form_submit_button("Submit")
 
     with col0b:
